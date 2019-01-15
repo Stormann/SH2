@@ -18,3 +18,8 @@ bewegungssteuerung, ziel des spiels
 - - Koordinaten nicht definierbar
 - - interaktionen zwischen figuren schwierig
 - Java
+
+15.01.19  
+- Java in "roh" stellt sich als sehr kompliziert heraus (eclipse)
+- Idee: Greenfoot statt z.b. eclipse
+- greenfoot ist grafisch bereits vereinfacht
