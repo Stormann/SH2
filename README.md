@@ -23,3 +23,5 @@ bewegungssteuerung, ziel des spiels
 - Java in "roh" stellt sich als sehr kompliziert heraus (eclipse)
 - Idee: Greenfoot statt z.b. eclipse
 - greenfoot ist grafisch bereits vereinfacht
+
+
