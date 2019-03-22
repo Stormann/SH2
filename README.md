@@ -3,9 +3,10 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg) 
 
 ## Inhaltsverzeichnis <a name="Inhaltsverzeichnis"></a>
-<details>
-  <summary>Verzeichnis öffnen</summary> 
-
+### 1. Vorwort
+### 2. Stundenprotokolle 
+<details> 
+   <summary>Liste öffnen</summary>
 [Erste Informatikstunde](#eins)
 
 [Zweite Informatikstunde](#zwei)
