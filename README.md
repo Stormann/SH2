@@ -1,35 +1,184 @@
 # SH2
+## Inhaltsverzeichnis <a name="Inhaltsverzeichnis"></a>
 
-17.12.18 
-Beschäftigung mit Greenfoot (da mögliche Projektplattform)
--ebenfalls Arduino. ideen: 
-kleines gerät mit solarpanel. digitales messgerät, luftfeuchtigkeit, helligkeit, temperatur etc. ?
+[Erste Informatikstunde](#eins)
 
-18.12.18
-einigung auf snap
-spiel entwicklung 
-konzeptuierung
-bewegungssteuerung, ziel des spiels
+[Zweite Informatikstunde](#zwei)
 
-08.01.19
-- Idee: Schasch
-- Versuche Umsetzung in Snap!
-- snap als ungeeignet VERORTET:
-- - Koordinaten nicht definierbar
-- - interaktionen zwischen figuren schwierig
-- Java
+[Dritte Informatikstunde](#drei)
 
-15.01.19  
-- Java in "roh" stellt sich als sehr kompliziert heraus (eclipse)
-- Idee: Greenfoot statt z.b. eclipse
-- greenfoot ist grafisch bereits vereinfacht
+[Vierte Informatikstunde](#vier)
 
-04.02.19
-- Schach hat sich aus vielen Gründen als für unsere Kenntnisse und Vorstellungen ungeeignet herausgestellt:
-- Ein "fertiges, vorgegebenes" Zielkonzept für ein Spiel zu haben, gleichzeitig viele bereits gut strukturierte Beispiele an in Greenfoot programmierten Schasch spielen zu haben, bedeutete, wie sich in unseren Recherchen und Versuchen zur Programmierung eines Schachspiels herausstellte, einen sehr eng abgesteckten Pfad, der nur wenige kreative Freiheiten zuließ, die wir uns unserem freieren Spiel im vorangegangenen Projekt sehr zu schätzen gelernt hatten. Wir haben uns deshalb am Wochenende in einer längeren Diskussion dazu entschieden, den "reset knopf" zu drücken und heute mit ...durchzustarten
+[Fünfte Informatikstunde](#fünf)
 
-(konkrete beispiele: herrausforderungen, die sich bereits nach gedanklicher Überlegung vermutlich als "nicht lösbar" herrausstellen würden. darunter viele abhängigkeiten der einzelnen Figuren, z.B. ein belegtes Feld zu definieren, das bewegen einer Figur trotz Schachgebot zu verhindern, etc.) 
+[Sechste Informatikstunde](#sechs)
 
-- wie Templerun  
+[Siebte Informatikstunde](#sieben)
+
+[Achte Informatikstunde](#acht)
+
+[Neunte Informatikstunde](#neun)
+
+[Zehnte Informatikstunde](#zehn)
+
+[Elfte Informatikstunde](#elf)
+
+[Zwölfte Informatikstunde](#zwölf)
+
+[Dreizehnte Informatikstunde](#dreizehn)
+
+[Vierzehnte Informatikstunde](#vierzehn)
+
+[Fünfzehnte Informatikstunde](#fünfzehn)
+
+
+
+## 17.12.2018  <a name="eins"></a> 
+
+*  A
+
+<details>
+  <summary>Genauer</summary> 
+A
+   </details>  <hr>
+  
+
+
+## 18.12.2018  <a name="zwei"></a> 
+
+*  A
+    
+<details>
+  <summary>Genauer</summary> 
+A
+</details> <hr>
+ 
+
+## 08.01.2019  <a name="drei"></a> 
+
+*   A
+<details>
+  <summary>Genauer</summary> 
+  A
+
+</details> <hr>
+
+## 14.01.2019  <a name="vier"></a> 
+
+*   A
+*   B
+*   C
+<details>
+  <summary>Genauer</summary>
+B
+</details> <hr>
+
+## 15.01.2019  <a name="fünf"></a> 
+
+*   B
+
+<details>
+  <summary>Genauer</summary>
+A
+</details>
+
+## 21.01.2019  <a name="sechs"></a> 
+
+*   A
+
+<details>
+  <summary>Genauer</summary> 
+AB
+</details>
+
+
+## 22.01.2019  <a name="sieben"></a> 
+
+* A
+<details>
+  <summary>Skizzen</summary> 
+Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen. In der Stunde selbst haben wir hauptsächlich unsere in den vorherigen Stunden gestallteten Skizzen in unsere GitHub Seite übertragen.  
+</details> <hr>
+
+## 29.01.2019 <a name="acht"></a> 
+
+*   A
+
+<details>
+  <summary>Genauer</summary>
+A
+    
+</details> <hr>
+
+## 04.02.2019  <a name="neun"></a> 
+
+*   A
+<details>
+  <summary>Genauer</summary>
+A
+</details> <hr>
+
+## 12.02.2019  <a name="zehn"></a> 
+
+*   A
+
+<details>
+  <summary>Genauer</summary>
+A
+
+</details> <hr>
+
+## 19.02.2019  <a name="elf"></a> 
+
+*   A
+<details>
+  <summary>Genauer</summary>
+A
+</details> <hr>
+
+## 25.02.2019  <a name="zwölf"></a> 
+
+*   A
+
+<details>
+  <summary>Genauer</summary>
+A
+</details> <hr>
+
+## 26.02.2019 <a name="dreizehn"></a> 
+
+*  A
+<details>
+  <summary>Genauer</summary>
+A
+</details> <hr>
+
+## 04.03.2019<a name="vierzehn"></a> 
+
+*   A
+<details>
+  <summary>Genauer</summary>
+A
+ </details> <hr>
+
+
+## 05.03.2019  <a name="vierzehn"></a>
+
+*   A
+
+<details>
+  <summary>Genauer</summary>
+A
+</details> <hr>
+
+
+## 18.03.2019  <a name="fünfzehn"></a> 
+
+* A
+<details>
+  <summary>Genauer</summary>
+A    
+
+ </details> <hr>
 
 
