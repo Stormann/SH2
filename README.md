@@ -24,7 +24,7 @@ Jump and Run in Greenfoot
 
 [Siebte Informatikstunde](#sieben)
 
-[Achte Informatikstunde](#acht)
+[Achte Informatikstunde](#acht)                       
 
 [Neunte Informatikstunde](#neun)
 
@@ -55,9 +55,7 @@ Jump and Run in Greenfoot
   <summary>Genauer</summary> 
 A
    </details>  
-  
-
-
+      
 ## 18.12.2018  <a name="zwei"></a> 
 
 *  A
