@@ -2,7 +2,7 @@ SH2
 =
 Jump and Run in Greenfoot 
 -
-![](https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg) 
+![](https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg)          Offizielles Greenfoot-Logo
 
 ## _Inhaltsverzeichnis_ <a name="Inhaltsverzeichnis"></a>
 ### 1. Vorwort
