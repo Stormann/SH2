@@ -7,6 +7,7 @@
 ### 2. Stundenprotokolle 
 <details> 
    <summary>Liste öffnen</summary>
+   
 [Erste Informatikstunde](#eins)
 
 [Zweite Informatikstunde](#zwei)
@@ -39,6 +40,7 @@
 
 </details>  <hr>
 
+### 3. Weiteres
 
 ## 17.12.2018  <a name="eins"></a> 
 
