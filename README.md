@@ -51,7 +51,7 @@
 <details>
   <summary>Genauer</summary> 
 A
-   </details>  <hr>
+   </details>  
   
 
 
@@ -62,7 +62,7 @@ A
 <details>
   <summary>Genauer</summary> 
 A
-</details> <hr>
+</details> 
  
 
 ## 08.01.2019  <a name="drei"></a> 
