@@ -72,7 +72,7 @@ A
   <summary>Genauer</summary> 
   A
 
-</details> <hr>
+</details> 
 
 ## 14.01.2019  <a name="vier"></a> 
 
@@ -82,7 +82,7 @@ A
 <details>
   <summary>Genauer</summary>
 B
-</details> <hr>
+</details> 
 
 ## 15.01.2019  <a name="fünf"></a> 
 
@@ -109,7 +109,7 @@ AB
 <details>
   <summary>Genauer</summary> 
 A
-</details> <hr>
+</details> 
 
 ## 29.01.2019 <a name="acht"></a> 
 
@@ -119,7 +119,7 @@ A
   <summary>Genauer</summary>
 A
     
-</details> <hr>
+</details> 
 
 ## 04.02.2019  <a name="neun"></a> 
 
@@ -127,7 +127,7 @@ A
 <details>
   <summary>Genauer</summary>
 A
-</details> <hr>
+</details> 
 
 ## 12.02.2019  <a name="zehn"></a> 
 
@@ -137,7 +137,7 @@ A
   <summary>Genauer</summary>
 A
 
-</details> <hr>
+</details> 
 
 ## 19.02.2019  <a name="elf"></a> 
 
@@ -145,7 +145,7 @@ A
 <details>
   <summary>Genauer</summary>
 A
-</details> <hr>
+</details> 
 
 ## 25.02.2019  <a name="zwölf"></a> 
 
@@ -154,7 +154,7 @@ A
 <details>
   <summary>Genauer</summary>
 A
-</details> <hr>
+</details> 
 
 ## 26.02.2019 <a name="dreizehn"></a> 
 
@@ -162,7 +162,7 @@ A
 <details>
   <summary>Genauer</summary>
 A
-</details> <hr>
+</details> 
 
 ## 04.03.2019<a name="vierzehn"></a> 
 
@@ -170,7 +170,7 @@ A
 <details>
   <summary>Genauer</summary>
 A
- </details> <hr>
+ </details>
 
 
 ## 05.03.2019  <a name="vierzehn"></a>
@@ -180,7 +180,7 @@ A
 <details>
   <summary>Genauer</summary>
 A
-</details> <hr>
+</details> 
 
 
 ## 18.03.2019  <a name="fünfzehn"></a> 
@@ -190,6 +190,6 @@ A
   <summary>Genauer</summary>
 A    
 
- </details> <hr>
+ </details> 
 
 
