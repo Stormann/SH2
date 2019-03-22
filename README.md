@@ -38,9 +38,11 @@
 
 [Fünfzehnte Informatikstunde](#fünfzehn)
 
-</details>  <hr>
+</details> 
 
 ### 3. Weiteres
+
+<hr>
 
 ## 17.12.2018  <a name="eins"></a> 
 
