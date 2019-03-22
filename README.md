@@ -96,8 +96,8 @@ AB
 
 * A
 <details>
-  <summary>Skizzen</summary> 
-Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen. In der Stunde selbst haben wir hauptsächlich unsere in den vorherigen Stunden gestallteten Skizzen in unsere GitHub Seite übertragen.  
+  <summary>Genauer</summary> 
+A
 </details> <hr>
 
 ## 29.01.2019 <a name="acht"></a> 
