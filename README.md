@@ -1,5 +1,10 @@
 # SH2
+# Jump and Run in Greenfoot 
+![](https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg)
+
 ## Inhaltsverzeichnis <a name="Inhaltsverzeichnis"></a>
+<details>
+  <summary>Verzeichnis öffnen</summary> 
 
 [Erste Informatikstunde](#eins)
 
@@ -31,6 +36,7 @@
 
 [Fünfzehnte Informatikstunde](#fünfzehn)
 
+</details>  <hr>
 
 
 ## 17.12.2018  <a name="eins"></a> 
