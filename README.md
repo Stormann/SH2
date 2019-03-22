@@ -4,7 +4,7 @@ Jump and Run in Greenfoot
 -
 ![](https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg) 
 
-## Inhaltsverzeichnis <a name="Inhaltsverzeichnis"></a>
+## _Inhaltsverzeichnis_ <a name="Inhaltsverzeichnis"></a>
 ### 1. Vorwort
 ### 2. Stundenprotokolle 
 <details> 
