@@ -1,6 +1,6 @@
 # SH2
 # Jump and Run in Greenfoot 
-![](https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg) 
 
 ## Inhaltsverzeichnis <a name="Inhaltsverzeichnis"></a>
 <details>
