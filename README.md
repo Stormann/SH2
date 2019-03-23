@@ -40,6 +40,8 @@ Jump and Run in Greenfoot
 
 [Fünfzehnte Informatikstunde](#fünfzehn)
 
+[Sechzehnte Informatikstunde](#sechzehn)
+
 </details> 
 
 ### 3.Weiteres
@@ -47,7 +49,7 @@ Jump and Run in Greenfoot
 * * * 
 ## 17.12.2018 <a name="eins"></a> 
 
-*  A
+*  ideenphase, reflektion was lief gut was lief schlecht, konzeptuierung
 *  B
 * <p>C</p>
 
@@ -58,7 +60,7 @@ A
       
 ## 18.12.2018  <a name="zwei"></a> 
 
-*  A
+*  umstieg auf java? oder doch lieber bei bjc bleiben. abhängig von spielidee machen
     
 <details>
   <summary>Genauer</summary> 
@@ -68,7 +70,7 @@ A
 
 ## 08.01.2019  <a name="drei"></a> 
 
-*   A
+*   dann idee für mögliches spiel, schach. überlegung und ein paar test ob möglich in bjc. über die woch näher darüber nachdenken
 <details>
   <summary>Genauer</summary> 
   A
@@ -78,8 +80,8 @@ A
 ## 14.01.2019  <a name="vier"></a> 
 
 *   A
-*   B
-*   C
+*   ergebnis. bjc ungeeignet, daher java. bzw. eclipse/spielidee bereits anspruchsvoll --> also gendanke das greenfoot etwas benutzerfreundlicher und dennoch definitv ausreichend für projekt idee. also greenfoot. einlesen in greenfoot über buch, github überarbeitet
+
 <details>
   <summary>Genauer</summary>
 B
@@ -87,7 +89,7 @@ B
 
 ## 15.01.2019  <a name="fünf"></a> 
 
-*   B
+*   arbeit zuhause an greenfoot eingeflossen arbeit an schach. erste probleme. vor allem jedoch darüber nachgedacht in form von diskussion und gedanklicher überlegung mit bestimmten besonderheit bspw. bewegen einer figur während des schachs. lesen in gf buch
 
 <details>
   <summary>Genauer</summary>
@@ -96,7 +98,7 @@ A
 
 ## 21.01.2019  <a name="sechs"></a> 
 
-*   A
+*   schach stellt sich als zu schwer herraus, jedoch bereits gesammelte theoretische erkenntnise nun nutzen um jump and run zu machen
 
 <details>
   <summary>Genauer</summary> 
@@ -106,7 +108,7 @@ AB
 
 ## 22.01.2019  <a name="sieben"></a> 
 
-* A
+* aufbauend auf der arbeit zuhause, erste schritte. github dokumentation leider schwer, wegegn fehler auf website?. welt erstellet, steuereung einrichten etc. bjoc hilft bei verstöndnis
 <details>
   <summary>Genauer</summary> 
 A
@@ -114,7 +116,8 @@ A
 
 ## 29.01.2019 <a name="acht"></a> 
 
-*   A
+*   spieler bei umdrehen auch bild ändern lösung, bildskalierung schwer, fehler. dennoch gelöst, eig. einfach musste nur finden, arbeti an github text
+
 
 <details>
   <summary>Genauer</summary>
@@ -124,7 +127,7 @@ A
 
 ## 04.02.2019  <a name="neun"></a> 
 
-*   A
+*   auf arbeit zu hause aufgehabuterstllen von blocks und gedanke über spielverlauf , neue welt erstellen. start mit spieler und objekt an bestimmtem ort
 <details>
   <summary>Genauer</summary>
 A
@@ -132,7 +135,7 @@ A
 
 ## 12.02.2019  <a name="zehn"></a> 
 
-*   A
+*   graviation hinzugefügt, steuerungskonzept leicht verändert und statt move um bestimmte weite, nun durcfh variabel gelöst
 
 <details>
   <summary>Genauer</summary>
@@ -142,7 +145,7 @@ A
 
 ## 19.02.2019  <a name="elf"></a> 
 
-*   A
+*   alle blocks an richtige stelle gemacht welt 1 strukturiert 
 <details>
   <summary>Genauer</summary>
 A
@@ -150,7 +153,7 @@ A
 
 ## 25.02.2019  <a name="zwölf"></a> 
 
-*   A
+*   interaktion mit blocks lösen, nur rehct wenig voran gekommen
 
 <details>
   <summary>Genauer</summary>
@@ -159,7 +162,7 @@ A
 
 ## 26.02.2019 <a name="dreizehn"></a> 
 
-*  A
+*  arbeit zu hause an dem problem hat geholfen, dennoch nicht vollständig fertig
 <details>
   <summary>Genauer</summary>
 A
@@ -167,16 +170,17 @@ A
 
 ## 04.03.2019<a name="vierzehn"></a> 
 
-*   A
+*   komisches problem (siehe chat verlauf), endlich gelöst, arbeti an githubtext
+
 <details>
   <summary>Genauer</summary>
 A
  </details>
 
 
-## 05.03.2019  <a name="vierzehn"></a>
+## 05.03.2019  <a name="fünfzehn"></a>
 
-*   A
+*   springen in der luft nun angehen,  außerdem neue welten definieren, menü etc.
 
 <details>
   <summary>Genauer</summary>
@@ -184,9 +188,9 @@ A
 </details> 
 
 
-## 18.03.2019  <a name="fünfzehn"></a> 
+## 18.03.2019  <a name="sechzehn"></a> 
 
-* A
+* gleichzeitiges bewegn aller objekte, github seite auf neustenstand gebracht. formatierungen verschönert etc.
 <details>
   <summary>Genauer</summary>
 A    
