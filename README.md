@@ -169,7 +169,7 @@ Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuha
 *  arbeit zu hause an dem problem hat geholfen, dennoch nicht vollständig fertig
 <details>
   <summary>Genauer</summary>
-A
+Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komischer Probleme war die Bekanntschaft mit dem Debugmodus und der Autolayout funktion, welche in manchen Fällen das benötigte Wundermittel war. Außerdem habe ich heute von der "showtext"-Funktion herfahren. Diese hat geholfen und aufgezeigt, dass es eine "nullpointexception" gibt. Daher haben wir den Fehler erkannt, welcher letztendlich war das die Figur bereits zu früh entfernt wurde, und ich ein gravitation() zu viel im Code hatte. Bei Stundenende kann die Figur nun, -voraussichtlich- ohne weitere Fehler auf der Plattform stehen. 
 </details> 
 
 ## 04.03.2019<a name="vierzehn"></a> 
@@ -178,7 +178,7 @@ A
 
 <details>
   <summary>Genauer</summary>
-A
+Haben kurze Pause von GF eingelegt, und die GitHub-Seite etwas aufgefrischt, das Inhaltsverzeichnis mit den Verknüpfnungen erstellt und die Gesamtstruktur von rein funktional, nun auch etwas anschaulicher gestaltet. In der morgigen Doppelstunde wollten wir dann weitere Welten definieren und ein paar Schönheitsfehler ausbessern.
  </details>
 
 
@@ -188,7 +188,7 @@ A
 
 <details>
   <summary>Genauer</summary>
-A
+Das mehrfache Springen in der Luft ist aktuell zu ändern, da man sonst "fliegen" könnte. Daher wollten wir die Sprunganzahl begrenzen, vermutlich auf 2mal. Außderdem haben wir jetzt ein Menü, welches jedoch grafisch noch verschönert werden muss. Planungstechnisch sind wir uns noch über die Nötigkeit eines Tutorials unsicher. 
 </details> 
 
 
@@ -197,7 +197,7 @@ A
 * gleichzeitiges bewegn aller objekte, github seite auf neustenstand gebracht. formatierungen verschönert etc.
 <details>
   <summary>Genauer</summary>
-A    
+Um eine größere bzw. längere Welt zu erreichen, sollen sich nun alle Objekte in y-Richtung bewegen. Dies schafft außerdem einen dynamischeren Spieleindruck.
 
  </details> 
 
