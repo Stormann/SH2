@@ -104,7 +104,7 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 *   jg
 <details>
    Das Github-Problem besteht leider immer noch, daher eig. geplante Aktualisierung der Stundenprotokolle leider nicht möglich.
-   Daher haben wir mit unserer "Jump and Run"-Idee begonnen. Nach Einstellung der Weltskalierung auf durchschnittliche Bildschirmgröße, ging es mit der Einrichtung der Steuerung des Protagonisten los. Bisher scheint der Übergang auf Greenfoot recht einfach, und wir sind froh darüber bereits eine gute theoretische Grundlage zu haben. Des weiteren war noch zu diskutieren, wie wir am Besten etwas Zeit aufholen können. Daher haben wir bereits geplant, wann wir zuhause an dem Projekt weiterarbeiten können.
+   Daher haben wir mit unserer "Jump and Run"-Idee begonnen. Nach Einstellung der Weltskalierung auf eine durchschnittliche Bildschirmgröße, ging es mit der Einrichtung der Steuerung des Protagonisten los. Bisher scheint der Übergang auf Greenfoot recht einfach, und wir sind froh darüber bereits eine gute theoretische Grundlage erarbeitet zu haben. Des weiteren war noch zu diskutieren, wie wir am Besten etwas Zeit aufholen können. Daher haben wir bereits geplant, wann wir gemeinsam zuhause an dem Projekt weiterarbeiten können.
   <summary>Genauer</summary> 
    
 </details>
@@ -112,10 +112,10 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 
 ## 22.01.2019  <a name="sieben"></a> 
 
-* aufbauend auf der arbeit zuhause, erste schritte. github dokumentation leider schwer, wegegn fehler auf website?. welt erstellet, steuereung einrichten etc. bjoc hilft bei verstöndnis
+* Ideensammlung für weiteren Spielverlauf
 <details>
   <summary>Genauer</summary> 
-Aufbauend auf der häuslichen Arbeit. Ging es nun um weitere Ideen, wie das Spiel ablaufen soll bzw. worin die Herausforderungen des Protagonisten bestehen. Außerdem 
+Aufbauend auf der häuslichen Arbeit und kurzem Abgleich der getätigten Veränderungen, ging es nun um weitere Konzeptideen. Also wie das Spiel ablaufen soll, bzw. worin die Herausforderungen des Protagonisten bestehen. Außerdem haben wir ein Beispielbild für den Protagonisten des Spiels herausgesucht, dieses ist jedoch aktuell noch viel zu groß im Vergleich zur Welt und das Bewegen der Figur sieht recht unrealistisch aus, wollen dies in der nächsten Stunde lösen.
 </details> 
 
 ## 29.01.2019 <a name="acht"></a> 
@@ -125,16 +125,16 @@ Aufbauend auf der häuslichen Arbeit. Ging es nun um weitere Ideen, wie das Spie
 
 <details>
   <summary>Genauer</summary>
-A
+Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu spiegeln, dass sie in die passende Richtung schaut. Nach einigem Herrumprobieren, war die Lösung durch "setimage" ein neues, vorher bereits als gespiegelte Variante verändert, einzusetzen. Da dies gelöst war musste das Bild nur noch gespiegelt werden, hier jedoch fiel erst später auf, dass der Code an der falschen Stelle eingesetzt war, daher war die Person je nach Bewegungsrichtung skaliert oder nicht. Nach einigem "unnötigen" Aufwand wurde der Fehler jedoch gefunden. Neben solchen kleinen Dingen, hat uns jedoch anfangs vorallem die Syntax etwas Zeit gekostet, da man schnell z.B. ein Semikolon vergisst, jedoch ist der Hinweis von Greenfoot auf einen fehlerhaften Code sehr hilfreich um solche Kleinigkeiten aufzudecken.
     
 </details> 
 
 ## 04.02.2019  <a name="neun"></a> 
 
-*   auf arbeit zu hause aufgehabuterstllen von blocks und gedanke über spielverlauf , neue welt erstellen. start mit spieler und objekt an bestimmtem ort
+*   erstllen von blocks und gedanke über spielverlauf , neue welt erstellen. start mit spieler und objekt an bestimmtem ort
 <details>
   <summary>Genauer</summary>
-A
+Da unser Protagonist nun korrekt skaliert ist und sich alle Richtungen bewegen kann. Haben wir der Welt Blocks hinzugefügt, welche nach kurzer bildtechnischer Bearbeitung um weiße Ränder zu entfernen, den Boden der Welt definieren und die Grundlage für jegliche Gestaltung der Umwelt sind. Über addObject, sind nun an den bestimmten Koordinaten, die Blocks bereits zu Spielbeginn vorhanden und müssen demnach nicht mehr einzeln eingefügt werden.
 </details> 
 
 ## 12.02.2019  <a name="zehn"></a> 
@@ -143,7 +143,7 @@ A
 
 <details>
   <summary>Genauer</summary>
-A
+In der nun, zumindest grundlegend vorhandenen Umgebung, geht es um die Interaktion zwischen der Spielfigur und bspw. den Plattformen/Blocks. Um dies zu erstellen fehlte jedoch noch die Gravitation. In diesem Zuge haben wir außerdem unser Steuerungskonzept überarbeitet, statt bisherigem move(x), bewegt sich der Protagonist nun durch einen in unserer Geschwindigkeitsvariabel definierten Wert. Die Erstellung mehrerer Variabeln ermöglicht es uns später die Geschwindigkeiten einfach an zupassen, und ist außerdem code-technisch übersichtlicher/ besser nachzuvollziehen. Mit der Umsetzung dieser Idee sind wir jedoch nicht vollständig in der Stunde fertig geworden, daher wollten wir dies später zuhause beenden. 
 
 </details> 
 
@@ -152,7 +152,7 @@ A
 *   alle blocks an richtige stelle gemacht welt 1 strukturiert 
 <details>
   <summary>Genauer</summary>
-A
+Nach häuslicher Beendigung des Steuerungskonzeptes und der Gravitation, haben wir eine neuen Weltabschnitt erstellt und diesen vorstrukturiert. Außerdem haben wir die Steuerungsgeschwindigkeiten, wie auch die Sprung höhe neu angepasst und besser auf die gesamte Umwelt abgestimmt. Im Verlauf der nächsten Tagen war die Zielsetzung die Interaktion zwischen Block und Spielfigur zu schaffen. Also das bspw. das Landen des Protagonisten auf einem Block zu ermöglichen, dies stellt sich jedoch als überraschend kompliziert heraus. 
 </details> 
 
 ## 25.02.2019  <a name="zwölf"></a> 
@@ -161,7 +161,7 @@ A
 
 <details>
   <summary>Genauer</summary>
-A
+Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuhause- sind wir zu keinem weiteren Ergebnis gekommen. Nach mehreren Versuchen in dieser Stunde hat jetzt jedoch endlich ein Teil davon funktioniert. Jedoch sind aktuell, neben dem Grundgedanken viele noch falsche Codezeilen zu bearbeiten. So sind manche Fehler, wie der fehlenden Definition eines Bezugsobjekts, ein gewisser Zeitfaktor. In der morgigen Doppelstunde, wollen wir jedoch mit dieser Problematik anschließen und häötten damit einen recht großen/komplitzierten Teil endlich geschafft.
 </details> 
 
 ## 26.02.2019 <a name="dreizehn"></a> 
