@@ -74,7 +74,9 @@ Daher wollten wir Java ausprobieren, auch wenn wir beider uns wenig damit ausken
 *   dann idee für mögliches spiel, schach. überlegung und ein paar test ob möglich in bjc. über die woch näher darüber nachdenken
 <details>
   <summary>Genauer</summary> 
-  A
+ In der ersten Stunde nach den Ferien, haben wir beide erstmal unseren Wissenstand abgeglichen und uns untereinander über die Möglichkeiten "unterrichtet". Insgesamt herschte jedoch der Eindruck, dass wir für ein zufriedenstellendes Schachprogramm nicht genug Zeit haben werden, zumindest auf Grund unseres aktuellen -trotz der Arbeit zu Hause- Wissensdefizits im Bereich Java. 
+Daher wechseln wir nun doch unsere Idee, auch wenn wir ein paar Stunden Zeit "verloren" haben, war die Arbeit bzw. Beschäftigung mit der genannten Thematik sehr interessant. 
+Nun bestand -nach eniger erneuter Evaluierung der Vor-und Nachteile- Einigkeit darin, dass wir dennoch die Programmierplattform wechseln wollen. Also BJOC beiseite legen und stattdessen eine andere nehmen. Da wir beide bereits etwas Java Kenntnise erlangt hatten, und bereits sehr viel gutes über Greenfoot gehört haben, machten wir uns nun daran. Allerdings fehlte eine neue Ideee, so dass wir zuerst an der GitHub-Seite etwas arbeiteten und in der kommenden Woche eine Spielidee erarbeiten wollten.
 
 </details> 
 
