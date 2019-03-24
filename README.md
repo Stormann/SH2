@@ -104,6 +104,7 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 *   jg
 <details>
    Das Github-Problem besteht leider immer noch, daher eig. geplante Aktualisierung der Stundenprotokolle leider nicht möglich.
+   Daher haben wir mit unserer "Jump and Run"-Idee begonnen. Nach Einstellung der Weltskalierung auf durchschnittliche Bildschirmgröße, ging es mit der Einrichtung der Steuerung des Protagonisten los. Bisher scheint der Übergang auf Greenfoot recht einfach, und wir sind froh darüber bereits eine gute theoretische Grundlage zu haben. Des weiteren war noch zu diskutieren, wie wir am Besten etwas Zeit aufholen können. Daher haben wir bereits geplant, wann wir zuhause an dem Projekt weiterarbeiten können.
   <summary>Genauer</summary> 
    
 </details>
@@ -114,7 +115,7 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 * aufbauend auf der arbeit zuhause, erste schritte. github dokumentation leider schwer, wegegn fehler auf website?. welt erstellet, steuereung einrichten etc. bjoc hilft bei verstöndnis
 <details>
   <summary>Genauer</summary> 
-A
+Aufbauend auf der häuslichen Arbeit. Ging es nun um weitere Ideen, wie das Spiel ablaufen soll bzw. worin die Herausforderungen des Protagonisten bestehen. Außerdem 
 </details> 
 
 ## 29.01.2019 <a name="acht"></a> 
