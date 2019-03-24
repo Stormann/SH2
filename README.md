@@ -55,7 +55,7 @@ Jump and Run in Greenfoot
 
 <details>
   <summary>Genauer</summary> 
-In der ersten Informatikstunde in dem neuen Halbjahr, wollten wir eine neue Spielidee bzw. ein Konzept entwickeln. Bevor Beginn dieser Ideephase, haben wir reflektiert was gut lief -bzw. was man noch besser hätte machen können. Schließlich sollte es möglich sein bereits auf Grund der gesammelten Erfahrung aus Projekt 1 weniger Fehler zu machen, und insgesamt effektiver zu arbeiten. Als Beispiel für ein Ergebnis solcher Abwägung ist, dass wir nun vor der eigentlichen, also praktischen Projektarbeit bereits konkreter eine gedankliche Struktur entwickeln wollen, um unnötige Probleme bereits vorher zu umgehen. 
+In der ersten Informatikstunde in dem neuen Halbjahr, wollten wir eine neue Spielidee bzw. ein Konzept entwickeln. Bevor Beginn dieser Ideephase, haben wir reflektiert was gut lief -bzw. was man noch besser hätte machen können. Schließlich sollte es möglich sein bereits auf Grund der gesammelten Erfahrung aus Projekt 1 weniger Fehler zu machen, und insgesamt effektiver zu arbeiten. Als Beispiel für ein Ergebnis solcher Abwägung ist, dass wir nun vor der eigentlichen, also praktischen Projektarbeit bereits konkreter eine gedankliche Struktur entwickeln wollen, um unnötige Probleme bereits vorher zu umgehen. In diesem Sinne hatten wir uns beide vorgenommen, bis zur nächsten Stunde bereits eine -möglichst ausführliche- Projektidee zu arbeiten. Den Rest der Stundenzeit haben wir dann für eine Vorstrukturierung der Github-Seite genutzt, damit unsere Dokumentation der zukünftigen Stunden möglichst einfach wird. 
    </details>  
       
 ## 18.12.2018  <a name="zwei"></a> 
