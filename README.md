@@ -65,7 +65,7 @@ In der ersten Informatikstunde in dem neuen Halbjahr, wollten wir eine neue Spie
 <details>
   <summary>Genauer</summary> 
 Wir haben unsere gesammelten Ideen besprochen und sind uns beide einig, dass wir Lust auf ein anspruchsvolleres Projekt haben. Daher stellt sich, nach kurzer Diskussion, die Projektidee ein lokales Schachprogramm für zwei Spieler zu programmieren als geeignet heraus. Blieb jedoch die Frage in welcher Programmierplattform man dies am besten Programmieren sollte. Da Schach -als Spielidee selbst- bereits relativ komplex ist, gefiel uns beiden die Idee in vertrautem Umfeld, für uns also BJOC bzw. Snap!, zu programmieren sehr gut. Dennoch waren wir beide unsicher, ob sich mit SNAP! alles umsetzten lässt. Gewisse Spielelemente könnten vllt. nicht möglich sein, eines der vielen Beispiel an Unsicherheiten ist, das Ziehen einer anderen Figur, während der König im Schach steht, zu verhindern. 
-Daher 
+Daher wollten wir Java ausprobieren, auch wenn wir beider uns wenig damit auskennen, schien Java als Programmiersprache sehr vielversprechend, und definitiv ausreichend für unser geplantes Spiel. Auf Empfehlung von Lukas hin, haben wir also Eclipse, einen Javaeditor, gedownloaded und uns mit der Oberfläche bekannt gemacht. In den Ferien wollten wir beide nun etwas Wissen sammeln, um dann in der kommenden Stunde ggf. mit der Arbeit am Projekt zu beginnen. 
 </details> 
  
 
