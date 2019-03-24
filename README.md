@@ -87,25 +87,25 @@ Nun bestand -nach eniger erneuter Evaluierung der Vor-und Nachteile- Einigkeit d
 
 <details>
   <summary>Genauer</summary>
-B
+Wir waren uns nun sicher, dass es die richtige Entscheidung war die Plattform zu wechseln, also nun mit Greenfoot zu arbeiten. Greenfoot sah wesentlich übersichtlicher aus und dennoch definitv ausreichen für unsere möglichen Projektideen. Bevor wir mit dem Programmieren starten haben wir zuerst in dem Greenfoot-Buch gelesen. Bevor wir uns nun konkret festlegen, welche Idee wir machen wollten wir noch etwas Basiswissen sammeln.
 </details> 
 
 ## 15.01.2019  <a name="fünf"></a> 
 
-*   arbeit zuhause an greenfoot eingeflossen arbeit an schach. erste probleme. vor allem jedoch darüber nachgedacht in form von diskussion und gedanklicher überlegung mit bestimmten besonderheit bspw. bewegen einer figur während des schachs. lesen in gf buch
+*   A
 
 <details>
   <summary>Genauer</summary>
-A
+Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemente sind bereits aus dem ersten Projekt, z.B. das Erstellen einer Steuerung, generelle Interaktionen zwischen Objekten und dem "Akteur", bekannt. Daher wollten wir möglichst viele Erfahrungen and BJOC, im Bezug auf den generellen Gedankengang beim Programmieren, also das Umsetzten einer Idee in Code, in unsere neue Arbeit einfließen lassen. Die Dokumentation an Github war leider in letzter Zeit etwas schwer, da man Änderungen, auch nach Neuladen der Seite und einem Browserwechsel, komischerweise nicht speichern konnte. Daher haben wir uns nur Notizen gemacht, um diese später zu übertragen. 
 </details>
 
 ## 21.01.2019  <a name="sechs"></a> 
 
-*   schach stellt sich als zu schwer herraus, jedoch bereits gesammelte theoretische erkenntnise nun nutzen um jump and run zu machen
-
+*   jg
 <details>
+   Das Github-Problem besteht leider immer noch, daher eig. geplante Aktualisierung der Stundenprotokolle leider nicht möglich.
   <summary>Genauer</summary> 
-AB
+   
 </details>
 
 
