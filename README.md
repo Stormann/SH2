@@ -47,6 +47,11 @@ Jump and Run in Greenfoot
 ### 3.Weiteres
 
 * * * 
+
+## Vorwort: 
+Im Folgenden befindet sich eine Dokumentation der Arbeit im Rahmen des Informatikunterrichts
+
+
 ## 17.12.2018 <a name="eins"></a> 
 
 
