@@ -42,6 +42,8 @@ Jump and Run in Greenfoot
 
 [Sechzehnte Informatikstunde](#sechzehn)
 
+[Siebzehnte Informatikstunde](#siebzehn)
+
 </details> 
 
 ### 3.Weiteres
@@ -155,7 +157,9 @@ Da unser Protagonist nun korrekt skaliert ist und sich alle Richtungen bewegen k
 
 ## 12.02.2019  <a name="zehn"></a> 
 
-*   graviation hinzugefügt, steuerungskonzept leicht verändert und statt move um bestimmte weite, nun durcfh variabel gelöst
+*  GF: Interaktion: Objekt und Spielfigur
+  * Gravitation erstellt
+*  neues Steuerungskonzept
 
 <details>
   <summary>Genauer</summary>
@@ -165,7 +169,8 @@ In der nun, zumindest grundlegend vorhandenen Umgebung, geht es um die Interakti
 
 ## 19.02.2019  <a name="elf"></a> 
 
-*   alle blocks an richtige stelle gemacht welt 1 strukturiert 
+*  GF: Strukturierung der Anfangsblöcke
+
 <details>
   <summary>Genauer</summary>
 Nach häuslicher Beendigung des Steuerungskonzeptes und der Gravitation, haben wir eine neuen Weltabschnitt erstellt und diesen vorstrukturiert. Außerdem haben wir die Steuerungsgeschwindigkeiten, wie auch die Sprung höhe neu angepasst und besser auf die gesamte Umwelt abgestimmt. Im Verlauf der nächsten Tagen war die Zielsetzung die Interaktion zwischen Block und Spielfigur zu schaffen. Also das bspw. das Landen des Protagonisten auf einem Block zu ermöglichen, dies stellt sich jedoch als überraschend kompliziert heraus. 
@@ -173,16 +178,21 @@ Nach häuslicher Beendigung des Steuerungskonzeptes und der Gravitation, haben w
 
 ## 25.02.2019  <a name="zwölf"></a> 
 
-*   interaktion mit blocks lösen, nur rehct wenig voran gekommen
+*  GF: Standoption auf Block
+* Überarbeitung der Codezeilen
+* Zuhause: "nullpointexception"
 
 <details>
   <summary>Genauer</summary>
-Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuhause- sind wir zu keinem weiteren Ergebnis gekommen. Nach mehreren Versuchen in dieser Stunde hat jetzt jedoch endlich ein Teil davon funktioniert. Jedoch sind aktuell, neben dem Grundgedanken viele noch falsche Codezeilen zu bearbeiten. So sind manche Fehler, wie der fehlenden Definition eines Bezugsobjekts, ein gewisser Zeitfaktor. In der morgigen Doppelstunde, wollen wir jedoch mit dieser Problematik anschließen und häötten damit einen recht großen/komplitzierten Teil endlich geschafft.
+Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuhause- sind wir zu keinem weiteren Ergebnis gekommen. Nach mehreren Versuchen in dieser Stunde hat jetzt jedoch endlich ein Teil davon funktioniert. Jedoch sind aktuell, neben dem Grundgedanken viele noch falsche Codezeilen zu bearbeiten. So sind manche Fehler, wie der fehlenden Definition eines Bezugsobjekts, ein gewisser Zeitfaktor. In der morgigen Doppelstunde, wollen wir jedoch mit dieser Problematik anschließen und hätten damit einen recht großen/komplitzierten Teil endlich geschafft.
 </details> 
 
 ## 26.02.2019 <a name="dreizehn"></a> 
 
-*  arbeit zu hause an dem problem hat geholfen, dennoch nicht vollständig fertig
+*  GF: Fehlerbearbeitung
+  * Autolayout
+  * Debugmodus
+  * Showtext
 <details>
   <summary>Genauer</summary>
 Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komischer Probleme war die Bekanntschaft mit dem Debugmodus und der Autolayout funktion, welche in manchen Fällen das benötigte Wundermittel war. Außerdem habe ich heute von der "showtext"-Funktion herfahren. Diese hat geholfen und aufgezeigt, dass es eine "nullpointexception" gibt. Daher haben wir den Fehler erkannt, welcher letztendlich war das die Figur bereits zu früh entfernt wurde, und ich ein gravitation() zu viel im Code hatte. Bei Stundenende kann die Figur nun, -voraussichtlich- ohne weitere Fehler auf der Plattform stehen. 
@@ -190,17 +200,18 @@ Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komische
 
 ## 04.03.2019<a name="vierzehn"></a> 
 
-*   komisches problem (siehe chat verlauf), endlich gelöst, arbeti an githubtext
-
+*   Überarbeitung der GitHub-Seite
+  * Verknüpfungen
 <details>
   <summary>Genauer</summary>
-Haben kurze Pause von GF eingelegt, und die GitHub-Seite etwas aufgefrischt, das Inhaltsverzeichnis mit den Verknüpfnungen erstellt und die Gesamtstruktur von rein funktional, nun auch etwas anschaulicher gestaltet. In der morgigen Doppelstunde wollten wir dann weitere Welten definieren und ein paar Schönheitsfehler ausbessern.
+Haben kurze Pause von GF eingelegt, und die GitHub-Seite etwas aufgefrischt, das Inhaltsverzeichnis mit den Verknüpfungen erstellt und die Gesamtstruktur von rein funktional, nun auch etwas anschaulicher gestaltet. In der morgigen Doppelstunde wollten wir dann weitere Welten definieren und ein paar Schönheitsfehler ausbessern.
  </details>
 
 
 ## 05.03.2019  <a name="fünfzehn"></a>
 
-*   springen in der luft nun angehen,  außerdem neue welten definieren, menü etc.
+* GF: Sprunganzahl in Luft begrenzen
+*   neue Welt definiert, Menü etc.
 
 <details>
   <summary>Genauer</summary>
@@ -210,11 +221,20 @@ Das mehrfache Springen in der Luft ist aktuell zu ändern, da man sonst "fliegen
 
 ## 18.03.2019  <a name="sechzehn"></a> 
 
-* gleichzeitiges bewegn aller objekte, github seite auf neustenstand gebracht. formatierungen verschönert etc.
+* GF: Gleichzeitiges Bewegen aller Objekte,
+* Github-Seite aktualisiert 
 <details>
   <summary>Genauer</summary>
 Um eine größere bzw. längere Welt zu erreichen, sollen sich nun alle Objekte in y-Richtung bewegen. Dies schafft außerdem einen dynamischeren Spieleindruck.
 
  </details> 
 
+## 25.03.2019  <a name="siebzehn"></a> 
 
+* Github: Stundenblog für Abgabe beendet
+* GF: Sprungproblematik 
+<details>
+  <summary>Genauer</summary>
+Da morgen die Abgabe des Stundenblogs ist, wurde diese nun abgabefertig bearbeitet. Außerdem diente der Rest der Stunde um einen Verzögerung nach Ausführung eines Sprungs zu erstellen, jedoch hat dies ohne eine Verzögerung des gesamten Code bisher nicht funktioniert. Dies ist in der nächsten Stunde anzugehen.
+
+ </details> 
