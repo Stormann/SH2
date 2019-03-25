@@ -57,8 +57,8 @@ Im Folgenden befindet sich eine Dokumentation der Arbeit im Rahmen des Informati
 
 * Reflektion
 * Ideenphase
-* neues Konzept
-* <p>C</p>
+  * neues Konzept
+
 
 <details>
   <summary>Genauer</summary> 
@@ -67,8 +67,9 @@ In der ersten Informatikstunde in dem neuen Halbjahr, wollten wir eine neue Spie
       
 ## 18.12.2018  <a name="zwei"></a> 
 
-*  umstieg auf java? oder doch lieber bei bjc bleiben. abhängig von spielidee machen
-    
+*  Abwägung der Programmierplattformen
+  *  Umstieg auf java?
+ 
 <details>
   <summary>Genauer</summary> 
 Wir haben unsere gesammelten Ideen besprochen und sind uns beide einig, dass wir Lust auf ein anspruchsvolleres Projekt haben. Daher stellt sich, nach kurzer Diskussion, die Projektidee ein lokales Schachprogramm für zwei Spieler zu programmieren als geeignet heraus. Blieb jedoch die Frage in welcher Programmierplattform man dies am besten Programmieren sollte. Da Schach -als Spielidee selbst- bereits relativ komplex ist, gefiel uns beiden die Idee in vertrautem Umfeld, für uns also BJOC bzw. Snap!, zu programmieren sehr gut. Dennoch waren wir beide unsicher, ob sich mit SNAP! alles umsetzten lässt. Gewisse Spielelemente könnten vllt. nicht möglich sein, eines der vielen Beispiel an Unsicherheiten ist, das Ziehen einer anderen Figur, während der König im Schach steht, zu verhindern. 
@@ -78,28 +79,31 @@ Daher wollten wir Java ausprobieren, auch wenn wir beider uns wenig damit ausken
 
 ## 08.01.2019  <a name="drei"></a> 
 
-*   dann idee für mögliches spiel, schach. überlegung und ein paar test ob möglich in bjc. über die woch näher darüber nachdenken
+*  Abgleich auf selben Stand
+*  Konzeptproblematik
+  * neu evaluiert 
 <details>
   <summary>Genauer</summary> 
- In der ersten Stunde nach den Ferien, haben wir beide erstmal unseren Wissenstand abgeglichen und uns untereinander über die Möglichkeiten "unterrichtet". Insgesamt herschte jedoch der Eindruck, dass wir für ein zufriedenstellendes Schachprogramm nicht genug Zeit haben werden, zumindest auf Grund unseres aktuellen -trotz der Arbeit zu Hause- Wissensdefizits im Bereich Java. 
+ In der ersten Stunde nach den Ferien haben wir beide erstmal unseren Wissenstand abgeglichen und uns untereinander über die Möglichkeiten "unterrichtet". Insgesamt herschte jedoch der Eindruck, dass wir für ein zufriedenstellendes Schachprogramm nicht genug Zeit haben werden, zumindest auf Grund unseres aktuellen -trotz der Arbeit zu Hause- Wissensdefizits im Bereich Java. 
 Daher wechseln wir nun doch unsere Idee, auch wenn wir ein paar Stunden Zeit "verloren" haben, war die Arbeit bzw. Beschäftigung mit der genannten Thematik sehr interessant. 
-Nun bestand -nach eniger erneuter Evaluierung der Vor-und Nachteile- Einigkeit darin, dass wir dennoch die Programmierplattform wechseln wollen. Also BJOC beiseite legen und stattdessen eine andere nehmen. Da wir beide bereits etwas Java Kenntnise erlangt hatten, und bereits sehr viel gutes über Greenfoot gehört haben, machten wir uns nun daran. Allerdings fehlte eine neue Ideee, so dass wir zuerst an der GitHub-Seite etwas arbeiteten und in der kommenden Woche eine Spielidee erarbeiten wollten.
+Nun bestand -nach eniger erneuter Evaluierung der Vor-und Nachteile- Einigkeit darin, dass wir dennoch die Programmierplattform wechseln wollen. Also BJOC beiseite legen und stattdessen eine andere nehmen. Da wir beide bereits etwas Java Kenntnise erlangt hatten, und bereits sehr viel gutes über Greenfoot gehört haben, machten wir uns nun daran. Allerdings fehlte eine neue Idee, so dass wir zuerst an der GitHub-Seite etwas arbeiteten und in der kommenden Woche eine Spielidee erarbeiten wollten.
 
 </details> 
 
 ## 14.01.2019  <a name="vier"></a> 
 
-*   A
-*   ergebnis. bjc ungeeignet, daher java. bzw. eclipse/spielidee bereits anspruchsvoll --> also gendanke das greenfoot etwas benutzerfreundlicher und dennoch definitv ausreichend für projekt idee. also greenfoot. einlesen in greenfoot über buch, github überarbeitet
+*  Umstieg auf Greenfoot
+  * Grundwissen erarbeitet
 
 <details>
   <summary>Genauer</summary>
-Wir waren uns nun sicher, dass es die richtige Entscheidung war die Plattform zu wechseln, also nun mit Greenfoot zu arbeiten. Greenfoot sah wesentlich übersichtlicher aus und dennoch definitv ausreichen für unsere möglichen Projektideen. Bevor wir mit dem Programmieren starten haben wir zuerst in dem Greenfoot-Buch gelesen. Bevor wir uns nun konkret festlegen, welche Idee wir machen wollten wir noch etwas Basiswissen sammeln.
+Wir sind uns nun sicher, dass es die richtige Entscheidung war die Plattform zu wechseln, also mit Greenfoot zu arbeiten. Greenfoot sah wesentlich übersichtlicher aus und dennoch definitv ausreichend für unsere möglichen Projektideen. Bevor wir mit dem Programmieren starten haben wir zuerst in dem Greenfoot-Buch gelesen. Bevor wir uns nun konkret festlegen, welche Idee wir machen wollten wir noch etwas Basiswissen sammeln. 
 </details> 
 
 ## 15.01.2019  <a name="fünf"></a> 
 
-*   A
+*   Erstellen eines Jump and Run-Spiels
+*   Bezug zwischen GF und BJOC wird deutlich
 
 <details>
   <summary>Genauer</summary>
@@ -108,7 +112,8 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 
 ## 21.01.2019  <a name="sechs"></a> 
 
-*   jg
+*   GitHub nicht funktionsfähig
+*   GF: Weltskalierung, Steuerung etc.
 <details>
    Das Github-Problem besteht leider immer noch, daher eig. geplante Aktualisierung der Stundenprotokolle leider nicht möglich.
    Daher haben wir mit unserer "Jump and Run"-Idee begonnen. Nach Einstellung der Weltskalierung auf eine durchschnittliche Bildschirmgröße, ging es mit der Einrichtung der Steuerung des Protagonisten los. Bisher scheint der Übergang auf Greenfoot recht einfach, und wir sind froh darüber bereits eine gute theoretische Grundlage erarbeitet zu haben. Des weiteren war noch zu diskutieren, wie wir am Besten etwas Zeit aufholen können. Daher haben wir bereits geplant, wann wir gemeinsam zuhause an dem Projekt weiterarbeiten können.
@@ -119,6 +124,7 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 
 ## 22.01.2019  <a name="sieben"></a> 
 
+* Strukturierung der häuslichen Arbeit
 * Ideensammlung für weiteren Spielverlauf
 <details>
   <summary>Genauer</summary> 
@@ -127,7 +133,8 @@ Aufbauend auf der häuslichen Arbeit und kurzem Abgleich der getätigten Veränd
 
 ## 29.01.2019 <a name="acht"></a> 
 
-*   spieler bei umdrehen auch bild ändern lösung, bildskalierung schwer, fehler. dennoch gelöst, eig. einfach musste nur finden, arbeti an github text
+*  GF: Bildskalierung angepasst
+*  Syntaxprobleme
 
 
 <details>
@@ -138,7 +145,9 @@ Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu
 
 ## 04.02.2019  <a name="neun"></a> 
 
-*   erstllen von blocks und gedanke über spielverlauf , neue welt erstellen. start mit spieler und objekt an bestimmtem ort
+* GF: Blocks hinzugefügt
+* Welt strukturiert
+  * addObject zu Spielbeginn
 <details>
   <summary>Genauer</summary>
 Da unser Protagonist nun korrekt skaliert ist und sich alle Richtungen bewegen kann. Haben wir der Welt Blocks hinzugefügt, welche nach kurzer bildtechnischer Bearbeitung um weiße Ränder zu entfernen, den Boden der Welt definieren und die Grundlage für jegliche Gestaltung der Umwelt sind. Über addObject, sind nun an den bestimmten Koordinaten, die Blocks bereits zu Spielbeginn vorhanden und müssen demnach nicht mehr einzeln eingefügt werden.
