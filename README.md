@@ -49,8 +49,10 @@ Jump and Run in Greenfoot
 * * * 
 ## 17.12.2018 <a name="eins"></a> 
 
-*  ideenphase, reflektion was lief gut was lief schlecht, konzeptuierung
-*  B
+
+* Reflektion
+* Ideenphase
+      * neues Konzept
 * <p>C</p>
 
 <details>
