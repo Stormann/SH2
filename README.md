@@ -52,7 +52,7 @@ Jump and Run in Greenfoot
 
 * Reflektion
 * Ideenphase
-      * neues Konzept
+* neues Konzept
 * <p>C</p>
 
 <details>
