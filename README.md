@@ -195,7 +195,7 @@ Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuha
   * Showtext
 <details>
   <summary>Genauer</summary>
-Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komischer Probleme war die Bekanntschaft mit dem Debugmodus und der Autolayout funktion, welche in manchen Fällen das benötigte Wundermittel war. Außerdem habe ich heute von der "showtext"-Funktion herfahren. Diese hat geholfen und aufgezeigt, dass es eine "nullpointexception" gibt. Daher haben wir den Fehler erkannt, welcher letztendlich war das die Figur bereits zu früh entfernt wurde, und ich ein gravitation() zu viel im Code hatte. Bei Stundenende kann die Figur nun, -voraussichtlich- ohne weitere Fehler auf der Plattform stehen. 
+Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komischer Probleme war die Bekanntschaft mit dem Debugmodus und der Autolayout funktion, welche in manchen Fällen das benötigte Wundermittel war. Außerdem habe ich heute von der "showtext"-Funktion herfahren. Diese hat geholfen und aufgezeigt, dass es eine "nullpointexception" gibt. Daher haben wir den Fehler erkannt, welcher letztendlich war, dass die Figur bereits zu früh entfernt wurde, und ich ein gravitation() zu viel im Code hatte. Bei Stundenende kann die Figur nun, -voraussichtlich- ohne weitere Fehler auf der Plattform stehen. 
 </details> 
 
 ## 04.03.2019<a name="vierzehn"></a> 
@@ -235,6 +235,16 @@ Um eine größere bzw. längere Welt zu erreichen, sollen sich nun alle Objekte 
 * GF: Sprungproblematik 
 <details>
   <summary>Genauer</summary>
-Da morgen die Abgabe des Stundenblogs ist, wurde diese nun abgabefertig bearbeitet. Außerdem diente der Rest der Stunde um einen Verzögerung nach Ausführung eines Sprungs zu erstellen, jedoch hat dies ohne eine Verzögerung des gesamten Code bisher nicht funktioniert. Dies ist in der nächsten Stunde anzugehen.
+Da morgen die Abgabe des Stundenblogs ist, wurde diese nun abgabefertig bearbeitet. Der aktuelle Charakter in GF ist immer noch ein Beispielbild, da jedoch ein passender Skin nicht im Internet zu finden ist, werde ich diesen stattdessen in Blender entwerfen, ebenso geht es um einen passenden Hintergrund zur Spielidee. Außerdem diente der Rest der Stunde um einen Verzögerung nach Ausführung eines Sprungs zu erstellen, jedoch hat dies ohne eine Verzögerung des gesamten Code bisher nicht funktioniert. Dies ist in der nächsten Stunde anzugehen.
 
  </details> 
+ 
+## 18.03.2019  <a name="sechzehn"></a> 
+
+* GF: Gleichzeitiges Bewegen aller Objekte,
+* Github-Seite aktualisiert 
+<details>
+  <summary>Genauer</summary>
+Heute habe ich viele neue Ideen gesammelt, um das Spiel interessanter zu gestalten. Inwiefern diese umzusetzten sind, ist jedoch noch unklar. (als Notiz: Entscheidungspunkt, Herausforderungen bspw. schieben eines objektes um auf ein anderes zu kommen, 
+
+ </details>  
