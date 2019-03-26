@@ -254,7 +254,7 @@ Da morgen die Abgabe des Stundenblogs ist, wurde dieser nun abgabefertig bearbei
 * Github-Seite aktualisiert 
 <details>
   <summary>Genauer</summary>
-In Greenfoot habe ich heute den Hintergrund verändert und (vorerst) einen besseren Skin für den Haupt-Charakter eingefügt. Außerdem habe ich viele neue Ideen gesammelt, um das Spiel interessanter/ansprechender zu gestalten. Inwiefern diese umzusetzten sind ist jedoch noch unklar. Insgesamt diente diese Stunde um einen Gesamtüberblick zu erhalten, was noch zu tuhen ist.
+In Greenfoot habe ich heute den Hintergrund verändert und (vorerst) einen besseren Skin für den Haupt-Charakter eingefügt. Außerdem habe ich viele neue Ideen gesammelt, um das Spiel interessanter/ansprechender zu gestalten. Inwiefern diese umzusetzten sind ist jedoch noch unklar. Insgesamt diente diese Stunde dem Erhalt eines Gesamtüberblicks, also woran besonders zu arbeiten ist.
  </details>  
  
  # Weiteres
