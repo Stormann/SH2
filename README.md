@@ -258,5 +258,7 @@ In Greenfoot habe ich heute den Hintergrund verändert und (vorerst) einen besse
  </details>  
  
  # Weiteres
- Kurznotizen:
+ <details>
+  <summary>Kurznotizen</summary>
 blender 3d zu 2d, Bug bei Plattformberührung, Bewg. durch getheight nicht public?, moveable obj. (unt. getOneObjectAtOffset) Entscheidungspunkt durch Welt_a oder b, Herausforderungen bspw. schieben eines objektes um auf ein anderes zu kommen, bewegter Hintergrund, Laufanimation_ja/nein? ggf.gif spiegeln?, v. frame >25?, auß. iftouching, gen, rel. größe? 
+</details>  
