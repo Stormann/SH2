@@ -51,7 +51,7 @@ Jump and Run in Greenfoot
 * * * 
 
 ## Vorwort: 
-Im Folgenden befindet sich eine Dokumentation der Arbeit im Rahmen des Informatikunterrichts
+Im Folgenden befindet sich eine Dokumentation der Arbeit im Rahmen des Informatikunterrichts. Genauere Informationen zum eig. Projekt sind in der Projektseite zu finden.
 
 
 ## 17.12.2018 <a name="eins"></a> 
@@ -64,7 +64,7 @@ Im Folgenden befindet sich eine Dokumentation der Arbeit im Rahmen des Informati
 
 <details>
   <summary>Genauer</summary> 
-In der ersten Informatikstunde in dem neuen Halbjahr, wollten wir eine neue Spielidee bzw. ein Konzept entwickeln. Bevor Beginn dieser Ideephase, haben wir reflektiert was gut lief -bzw. was man noch besser hätte machen können. Schließlich sollte es möglich sein bereits auf Grund der gesammelten Erfahrung aus Projekt 1 weniger Fehler zu machen, und insgesamt effektiver zu arbeiten. Als Beispiel für ein Ergebnis solcher Abwägung ist, dass wir nun vor der eigentlichen, also praktischen Projektarbeit bereits konkreter eine gedankliche Struktur entwickeln wollen, um unnötige Probleme bereits vorher zu umgehen. In diesem Sinne hatten wir uns beide vorgenommen, bis zur nächsten Stunde bereits eine -möglichst ausführliche- Projektidee zu arbeiten. Den Rest der Stundenzeit haben wir dann für eine Vorstrukturierung der Github-Seite genutzt, damit unsere Dokumentation der zukünftigen Stunden möglichst einfach wird. 
+In der ersten Informatikstunde des neuen Halbjahrs, wollten wir eine neue Spielidee bzw. ein Konzept entwickeln. Bevor Beginn dieser Ideenphase, haben wir reflektiert was gut lief -bzw. was man noch besser hätte machen können. Schließlich sollte es möglich sein bereits auf Grund der gesammelten Erfahrung aus Projekt 1 weniger Fehler zu machen, besser gesagt insgesamt effektiver zu arbeiten. Als Beispiel für ein Ergebnis solcher Abwägung ist, dass wir nun vor der eigentlichen, also praktischen Projektarbeit bereits konkreter eine gedankliche Struktur entwickeln wollen, um unnötige Probleme bereits vorher zu umgehen. In diesem Sinne hatten wir uns beide vorgenommen, bis zur nächsten Stunde bereits eine -möglichst ausführliche- Projektidee zu erarbeiten. Den Rest der Stundenzeit haben wir dann für eine Vorstrukturierung der Github-Seite genutzt, damit unsere Dokumentation der zukünftigen Stunden möglichst einfach wird. 
    </details>  
       
 ## 18.12.2018  <a name="zwei"></a> 
@@ -74,8 +74,8 @@ In der ersten Informatikstunde in dem neuen Halbjahr, wollten wir eine neue Spie
  
 <details>
   <summary>Genauer</summary> 
-Wir haben unsere gesammelten Ideen besprochen und sind uns beide einig, dass wir Lust auf ein anspruchsvolleres Projekt haben. Daher stellt sich, nach kurzer Diskussion, die Projektidee ein lokales Schachprogramm für zwei Spieler zu programmieren als geeignet heraus. Blieb jedoch die Frage in welcher Programmierplattform man dies am besten Programmieren sollte. Da Schach -als Spielidee selbst- bereits relativ komplex ist, gefiel uns beiden die Idee in vertrautem Umfeld, für uns also BJOC bzw. Snap!, zu programmieren sehr gut. Dennoch waren wir beide unsicher, ob sich mit SNAP! alles umsetzten lässt. Gewisse Spielelemente könnten vllt. nicht möglich sein, eines der vielen Beispiel an Unsicherheiten ist, das Ziehen einer anderen Figur, während der König im Schach steht, zu verhindern. 
-Daher wollten wir Java ausprobieren, auch wenn wir beider uns wenig damit auskennen, schien Java als Programmiersprache sehr vielversprechend, und definitiv ausreichend für unser geplantes Spiel. Auf Empfehlung von Lukas hin, haben wir also Eclipse, einen Javaeditor, gedownloaded und uns mit der Oberfläche bekannt gemacht. In den Ferien wollten wir beide nun etwas Wissen sammeln, um dann in der kommenden Stunde ggf. mit der Arbeit am Projekt zu beginnen. 
+Wir haben unsere gesammelten Ideen besprochen und sind uns beide einig, dass wir Lust auf ein anspruchsvolleres Projekt haben. Daher stellt sich, nach kurzer Diskussion, die Projektidee ein lokales Schachprogramm für zwei Spieler zu programmieren als geeignet heraus. Blieb jedoch die Frage in welcher Programmierplattform man dies am besten programmieren sollte. Da Schach -als Spielidee selbst- bereits relativ komplex ist, gefiel uns beiden die Idee in vertrautem Umfeld, für uns also BJOC bzw. Snap!, zu programmieren sehr gut. Dennoch waren wir beide unsicher, ob sich mit SNAP! alles umsetzten lässt. Gewisse Spielelemente könnten vllt. nicht möglich sein. Eines der vielen Beispiel an Ungewissheiten ist, das Ziehen einer anderen Figur -bspw. während der König im Schach steht, zu verhindern. 
+Daher wollten wir Java ausprobieren, auch wenn wir beide uns wenig damit auskennen, schien Java als Programmiersprache sehr vielversprechend, und definitiv ausreichend für unser geplantes Spiel. Auf Empfehlung von Lukas hin, haben wir also Eclipse, einen Javaeditor, gedownloaded und uns mit der Oberfläche bekannt gemacht. In den Ferien wollten wir beide nun etwas Wissen sammeln, um dann in der kommenden Stunde mit der Arbeit am Projekt zu beginnen. 
 </details> 
  
 
@@ -86,9 +86,9 @@ Daher wollten wir Java ausprobieren, auch wenn wir beider uns wenig damit ausken
   * neu evaluiert 
 <details>
   <summary>Genauer</summary> 
- In der ersten Stunde nach den Ferien haben wir beide erstmal unseren Wissenstand abgeglichen und uns untereinander über die Möglichkeiten "unterrichtet". Insgesamt herschte jedoch der Eindruck, dass wir für ein zufriedenstellendes Schachprogramm nicht genug Zeit haben werden, zumindest auf Grund unseres aktuellen -trotz der Arbeit zu Hause- Wissensdefizits im Bereich Java. 
-Daher wechseln wir nun doch unsere Idee, auch wenn wir ein paar Stunden Zeit "verloren" haben, war die Arbeit bzw. Beschäftigung mit der genannten Thematik sehr interessant. 
-Nun bestand -nach eniger erneuter Evaluierung der Vor-und Nachteile- Einigkeit darin, dass wir dennoch die Programmierplattform wechseln wollen. Also BJOC beiseite legen und stattdessen eine andere nehmen. Da wir beide bereits etwas Java Kenntnise erlangt hatten, und bereits sehr viel gutes über Greenfoot gehört haben, machten wir uns nun daran. Allerdings fehlte eine neue Idee, so dass wir zuerst an der GitHub-Seite etwas arbeiteten und in der kommenden Woche eine Spielidee erarbeiten wollten.
+ In der ersten Stunde nach den Ferien haben wir beide zuerst unseren Wissenstand abgeglichen und uns untereinander über die Möglichkeiten "unterrichtet". Insgesamt herschte jedoch der Eindruck, dass wir für ein zufriedenstellendes Schachprogramm nicht genug Zeit haben werden, zumindest auf Grund unseres aktuellen Wissensdefizits -trotz der Arbeit zu Hause- im Bereich Java. 
+Daher wechseln wir nun doch unsere Idee: Auch wenn wir ein paar Stunden Zeit "verloren" haben, war die Arbeit bzw. Beschäftigung mit der genannten Thematik sehr interessant. 
+Nun bestand -nach einiger erneuter Evaluierung der Vor-und Nachteile- Einigkeit darin, dass wir dennoch die Programmierplattform wechseln wollen. Also BJOC beiseite legen und stattdessen eine andere nehmen. Da wir beide bereits etwas Java Kenntnise erlangt hatten, und bereits sehr viel gutes über Greenfoot gehört haben, machten wir uns nun daran. Allerdings fehlte eine neue Idee, so dass wir zuerst an der GitHub-Seite etwas arbeiteten und in der kommenden Woche eine Spielidee erarbeiten wollten.
 
 </details> 
 
@@ -99,7 +99,7 @@ Nun bestand -nach eniger erneuter Evaluierung der Vor-und Nachteile- Einigkeit d
 
 <details>
   <summary>Genauer</summary>
-Wir sind uns nun sicher, dass es die richtige Entscheidung war die Plattform zu wechseln, also mit Greenfoot zu arbeiten. Greenfoot sah wesentlich übersichtlicher aus und dennoch definitv ausreichend für unsere möglichen Projektideen. Bevor wir mit dem Programmieren starten haben wir zuerst in dem Greenfoot-Buch gelesen. Bevor wir uns nun konkret festlegen, welche Idee wir machen wollten wir noch etwas Basiswissen sammeln. 
+Wir sind uns nun sicher, dass es die richtige Entscheidung war die Plattform zu wechseln, also mit Greenfoot zu arbeiten. Greenfoot sah wesentlich übersichtlicher aus und dennoch definitv ausreichend für unsere möglichen Projektideen. Außerdem in einigen Momenten viel intuitiver, somit also besser für uns geeignet. Bevor wir mit dem Programmieren starten haben wir zuerst in dem Greenfoot-Buch gelesen. Vor der konkreten Festlegung unserer Projektidee wollten wir so ausreichend (ergänzendes) Basiswissen sammeln. 
 </details> 
 
 ## 15.01.2019  <a name="fünf"></a> 
@@ -138,10 +138,9 @@ Aufbauend auf der häuslichen Arbeit und kurzem Abgleich der getätigten Veränd
 *  GF: Bildskalierung angepasst
 *  Syntaxprobleme
 
-
 <details>
   <summary>Genauer</summary>
-Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu spiegeln, dass sie in die passende Richtung schaut. Nach einigem Herrumprobieren, war die Lösung durch "setimage" ein neues, vorher bereits als gespiegelte Variante verändert, einzusetzen. Da dies gelöst war musste das Bild nur noch gespiegelt werden, hier jedoch fiel erst später auf, dass der Code an der falschen Stelle eingesetzt war, daher war die Person je nach Bewegungsrichtung skaliert oder nicht. Nach einigem "unnötigen" Aufwand wurde der Fehler jedoch gefunden. Neben solchen kleinen Dingen, hat uns jedoch anfangs vorallem die Syntax etwas Zeit gekostet, da man schnell z.B. ein Semikolon vergisst, jedoch ist der Hinweis von Greenfoot auf einen fehlerhaften Code sehr hilfreich um solche Kleinigkeiten aufzudecken.
+Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu spiegeln, dass sie in die passende Richtung schaut. Nach einigem Herrumprobieren, war die Lösung durch "setimage" ein neues, vorher bereits als gespiegelte Variante verändert, einzusetzen. Da dies gelöst war musste das Bild nur noch in der Größe angepasst werden, hier jedoch fiel erst später auf, dass der Code an der falschen Stelle eingesetzt war, daher war die Person je nach Bewegungsrichtung skaliert oder nicht. Nach einigem "unnötigen" Aufwand wurde der Fehler jedoch gefunden. Neben solchen kleinen Dingen, hat uns jedoch anfangs vorallem die Syntax etwas Zeit gekostet, da man schnell z.B. ein Semikolon vergisst, jedoch ist der Hinweis von Greenfoot auf einen fehlerhaften Code sehr hilfreich um solche Kleinigkeiten aufzudecken.
    
 ![Bild1](https://user-images.githubusercontent.com/42579272/55008868-f77e5b80-4fe1-11e9-92bd-a4d2618a5073.PNG)
 ![Bild4](https://user-images.githubusercontent.com/42579272/55009900-96578780-4fe3-11e9-9a92-c021817d6c94.PNG)
@@ -155,7 +154,7 @@ Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu
   * addObject zu Spielbeginn
 <details>
   <summary>Genauer</summary>
-Da unser Protagonist nun korrekt skaliert ist und sich alle Richtungen bewegen kann. Haben wir der Welt Blocks hinzugefügt, welche nach kurzer bildtechnischer Bearbeitung um weiße Ränder zu entfernen, den Boden der Welt definieren und die Grundlage für jegliche Gestaltung der Umwelt sind. Über addObject, sind nun an den bestimmten Koordinaten, die Blocks bereits zu Spielbeginn vorhanden und müssen demnach nicht mehr einzeln eingefügt werden.
+Da unser Protagonist nun korrekt skaliert ist und sich in alle Richtungen bewegen kann, haben wir der Welt Blocks hinzugefügt, welche nach kurzer bildtechnischer Bearbeitung um weiße Ränder zu entfernen, den Boden der Welt definieren und die Grundlage für jegliche Gestaltung der Umwelt sind. Über addObject, sind nun an den bestimmten Koordinaten, die Blocks bereits zu Spielbeginn vorhanden und müssen demnach nicht mehr einzeln eingefügt werden. Außerdem habe ich an der Transparenz einzelner Blöcke gearbeitet, bin jedoch noch nicht sicher, ob diese später zum Einsatz kommen.
 </details> 
 
 ## 12.02.2019  <a name="zehn"></a> 
@@ -166,7 +165,8 @@ Da unser Protagonist nun korrekt skaliert ist und sich alle Richtungen bewegen k
 
 <details>
   <summary>Genauer</summary>
-In der nun, zumindest grundlegend vorhandenen Umgebung, geht es um die Interaktion zwischen der Spielfigur und bspw. den Plattformen/Blocks. Um dies zu erstellen fehlte jedoch noch die Gravitation. In diesem Zuge haben wir außerdem unser Steuerungskonzept überarbeitet, statt bisherigem move(x), bewegt sich der Protagonist nun durch einen in unserer Geschwindigkeitsvariabel definierten Wert. Die Erstellung mehrerer Variabeln ermöglicht es uns später die Geschwindigkeiten einfach an zupassen, und ist außerdem code-technisch übersichtlicher/ besser nachzuvollziehen. Mit der Umsetzung dieser Idee sind wir jedoch nicht vollständig in der Stunde fertig geworden, daher wollten wir dies später zuhause beenden. 
+In der nun, zumindest grundlegend vorhandenen Umgebung, geht es um die Interaktion zwischen der Spielfigur und bspw. den Plattformen/Blocks. Um dies zu erstellen fehlte jedoch noch die Gravitation. In diesem Zuge haben wir außerdem unser Steuerungskonzept überarbeitet, statt bisherigem move(x), bewegt sich der Protagonist nun durch einen in unserer Geschwindigkeitsvariabel definierten Wert. Die Erstellung mehrerer Variabeln ermöglicht es uns später die Geschwindigkeiten einfach anzupassen, und ist außerdem code-technisch übersichtlicher/ besser nachzuvollziehen. Mit der Umsetzung dieser Idee sind wir jedoch nicht vollständig in der Stunde fertig geworden, daher wollten wir dies später zuhause beenden. 
+   Ein Codeausschnitt:
 
 ![Bild2](https://user-images.githubusercontent.com/42579272/55009667-3e208580-4fe3-11e9-92e9-f73da733697b.PNG)
 variablen sind oben im Code definiert
@@ -201,9 +201,11 @@ Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuha
 <details>
   <summary>Genauer</summary>
 Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komischer Probleme war die Bekanntschaft mit dem Debugmodus und der Autolayout funktion, welche in manchen Fällen das benötigte Wundermittel war. Außerdem habe ich heute von der "showtext"-Funktion herfahren. Diese hat geholfen und aufgezeigt, dass es eine "nullpointexception" gibt. Daher haben wir den Fehler erkannt, welcher letztendlich war, dass die Figur bereits zu früh entfernt wurde, und ich ein gravitation() zu viel im Code hatte. Bei Stundenende kann die Figur nun, -voraussichtlich- ohne weitere Fehler auf der Plattform stehen. 
-</details> 
 
 ![Bild3](https://user-images.githubusercontent.com/42579272/55009803-7031e780-4fe3-11e9-96d3-1d3f299fef43.PNG)
+
+</details> 
+
 
 ## 04.03.2019<a name="vierzehn"></a> 
 
@@ -222,7 +224,7 @@ Haben kurze Pause von GF eingelegt, und die GitHub-Seite etwas aufgefrischt, das
 
 <details>
   <summary>Genauer</summary>
-Das mehrfache Springen in der Luft ist aktuell zu ändern, da man sonst "fliegen" könnte. Daher wollten wir die Sprunganzahl begrenzen, vermutlich auf 2mal. Außderdem haben wir jetzt ein Menü, welches jedoch grafisch noch verschönert werden muss. Planungstechnisch sind wir uns noch über die Nötigkeit eines Tutorials unsicher. 
+Das mehrfache Springen in der Luft ist aktuell zu ändern, da man sonst "fliegen" könnte. Daher wollten wir die Sprunganzahl begrenzen, vermutlich auf 2mal. Außderdem haben wir jetzt ein Menü, welches jedoch grafisch noch verschönert werden muss. Planungstechnisch sind wir uns noch über die Nötigkeit eines Tutorials unsicher. Der Wechsel auf einen anderen Bildschirm, wenn man von einer Plattform fällt ist jedoch bereits programmiert, später sollen unterschiedliche "Welten" zu einzelnen Leveln etc. führen.
 </details> 
 
 
@@ -232,7 +234,7 @@ Das mehrfache Springen in der Luft ist aktuell zu ändern, da man sonst "fliegen
 * Github-Seite aktualisiert 
 <details>
   <summary>Genauer</summary>
-Um eine größere bzw. längere Welt zu erreichen, sollen sich nun alle Objekte in y-Richtung bewegen. Dies schafft außerdem einen dynamischeren Spieleindruck.
+Um eine größere bzw. längere Welt zu erreichen, sollen sich nun alle Objekte in y-Richtung bewegen. Dies schafft außerdem einen dynamischeren Spieleindruck. Ebenso sollte sich der Hintergrund passend zur Spielfigur bewegen, dabei ist jedoch eine gute Balance zwischen der durch den Protagonisten un- und beeinflussten Bewegung des Hintergrunds zu finden. Das Reseten des H-Bildes beim Zurücklaufen der Spielfigur mag ebenfalls zu bedenken sein, um letztendlich eine flüssige Spielerscheinung zu generieren.
 
  </details> 
 
@@ -242,16 +244,19 @@ Um eine größere bzw. längere Welt zu erreichen, sollen sich nun alle Objekte 
 * GF: Sprungproblematik 
 <details>
   <summary>Genauer</summary>
-Da morgen die Abgabe des Stundenblogs ist, wurde diese nun abgabefertig bearbeitet. Der aktuelle Charakter in GF ist immer noch ein Beispielbild, da jedoch ein passender Skin nicht im Internet zu finden ist, werde ich diesen stattdessen in Blender entwerfen, ebenso geht es um einen passenden Hintergrund zur Spielidee. Außerdem diente der Rest der Stunde um einen Verzögerung nach Ausführung eines Sprungs zu erstellen, jedoch hat dies ohne eine Verzögerung des gesamten Code bisher nicht funktioniert. Dies ist in der nächsten Stunde anzugehen.
+Da morgen die Abgabe des Stundenblogs ist, wurde dieser nun abgabefertig bearbeitet. Der aktuelle Charakter in GF ist immer noch ein Beispielbild, da jedoch ein passender Skin nicht im Internet zu finden ist, werde ich diesen stattdessen in Blender entwerfen, ebenso geht es um einen passenden Hintergrund zur Spielidee. Außerdem diente der Rest der Stunde um eine Verzögerung nach Ausführung eines Sprungs zu erstellen, jedoch hat dies bisher noch nicht gänzlich (ohne eine Verzögerung des gesamten Codes)funktioniert. 
 
  </details> 
  
-## 18.03.2019  <a name="sechzehn"></a> 
+## 26.03.2019  <a name="achtzehn"></a> 
 
-* GF: Gleichzeitiges Bewegen aller Objekte,
+* GF: neue Ideensammlung
 * Github-Seite aktualisiert 
 <details>
   <summary>Genauer</summary>
-Heute habe ich viele neue Ideen gesammelt, um das Spiel interessanter/ansprechender zu gestalten. Inwiefern diese umzusetzten sind, ist jedoch noch unklar. (als Notiz: Entscheidungspunkt durch Welt_a oder b, Herausforderungen bspw. schieben eines objektes um auf ein anderes zu kommen, bewegter Hintergrund, Laufanimation_ja/nein?, 
-
+In Greenfoot habe ich heute den Hintergrund verändert und (vorerst) einen besseren Skin für den Haupt-Charakter eingefügt. Außerdem habe ich viele neue Ideen gesammelt, um das Spiel interessanter/ansprechender zu gestalten. Inwiefern diese umzusetzten sind ist jedoch noch unklar. Insgesamt diente diese Stunde um einen Gesamtüberblick zu erhalten, was noch zu tuhen ist.
  </details>  
+ 
+ # Weiteres
+ Kurznotizen:
+blender 3d zu 2d, Bug bei Plattformberührung, Bewg. durch getheight nicht public?, moveable obj. (unt. getOneObjectAtOffset) Entscheidungspunkt durch Welt_a oder b, Herausforderungen bspw. schieben eines objektes um auf ein anderes zu kommen, bewegter Hintergrund, Laufanimation_ja/nein? ggf.gif spiegeln?, v. frame >25?, auß. iftouching, gen, rel. größe? 
