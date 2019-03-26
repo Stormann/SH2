@@ -54,7 +54,7 @@ Jump and Run in Greenfoot
 Im Folgenden befindet sich eine Dokumentation der Arbeit im Rahmen des Informatikunterrichts. Genauere Informationen zum eig. Projekt sind in der Projektseite zu finden.
 
 
-## 17.12.2018 <a name="eins"></a> 
+### 17.12.2018 <a name="eins"></a> 
 
 
 * Reflektion
@@ -67,7 +67,7 @@ Im Folgenden befindet sich eine Dokumentation der Arbeit im Rahmen des Informati
 In der ersten Informatikstunde des neuen Halbjahrs, wollten wir eine neue Spielidee bzw. ein Konzept entwickeln. Bevor Beginn dieser Ideenphase, haben wir reflektiert was gut lief -bzw. was man noch besser hätte machen können. Schließlich sollte es möglich sein bereits auf Grund der gesammelten Erfahrung aus Projekt 1 weniger Fehler zu machen, besser gesagt insgesamt effektiver zu arbeiten. Als Beispiel für ein Ergebnis solcher Abwägung ist, dass wir nun vor der eigentlichen, also praktischen Projektarbeit bereits konkreter eine gedankliche Struktur entwickeln wollen, um unnötige Probleme bereits vorher zu umgehen. In diesem Sinne hatten wir uns beide vorgenommen, bis zur nächsten Stunde bereits eine -möglichst ausführliche- Projektidee zu erarbeiten. Den Rest der Stundenzeit haben wir dann für eine Vorstrukturierung der Github-Seite genutzt, damit unsere Dokumentation der zukünftigen Stunden möglichst einfach wird. 
    </details>  
       
-## 18.12.2018  <a name="zwei"></a> 
+### 18.12.2018  <a name="zwei"></a> 
 
 *  Abwägung der Programmierplattformen
   *  Umstieg auf java?
@@ -79,7 +79,7 @@ Daher wollten wir Java ausprobieren, auch wenn wir beide uns wenig damit auskenn
 </details> 
  
 
-## 08.01.2019  <a name="drei"></a> 
+### 08.01.2019  <a name="drei"></a> 
 
 *  Abgleich auf selben Stand
 *  Konzeptproblematik
@@ -92,7 +92,7 @@ Nun bestand -nach einiger erneuter Evaluierung der Vor-und Nachteile- Einigkeit 
 
 </details> 
 
-## 14.01.2019  <a name="vier"></a> 
+### 14.01.2019  <a name="vier"></a> 
 
 *  Umstieg auf Greenfoot
   * Grundwissen erarbeitet
@@ -102,7 +102,7 @@ Nun bestand -nach einiger erneuter Evaluierung der Vor-und Nachteile- Einigkeit 
 Wir sind uns nun sicher, dass es die richtige Entscheidung war die Plattform zu wechseln, also mit Greenfoot zu arbeiten. Greenfoot sah wesentlich übersichtlicher aus und dennoch definitv ausreichend für unsere möglichen Projektideen. Außerdem in einigen Momenten viel intuitiver, somit also besser für uns geeignet. Bevor wir mit dem Programmieren starten haben wir zuerst in dem Greenfoot-Buch gelesen. Vor der konkreten Festlegung unserer Projektidee wollten wir so ausreichend (ergänzendes) Basiswissen sammeln. 
 </details> 
 
-## 15.01.2019  <a name="fünf"></a> 
+### 15.01.2019  <a name="fünf"></a> 
 
 *   Erstellen eines Jump and Run-Spiels
 *   Bezug zwischen GF und BJOC wird deutlich
@@ -112,7 +112,7 @@ Wir sind uns nun sicher, dass es die richtige Entscheidung war die Plattform zu 
 Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemente sind bereits aus dem ersten Projekt, z.B. das Erstellen einer Steuerung, generelle Interaktionen zwischen Objekten und dem "Akteur", bekannt. Daher wollten wir möglichst viele Erfahrungen and BJOC, im Bezug auf den generellen Gedankengang beim Programmieren, also das Umsetzten einer Idee in Code, in unsere neue Arbeit einfließen lassen. Die Dokumentation an Github war leider in letzter Zeit etwas schwer, da man Änderungen, auch nach Neuladen der Seite und einem Browserwechsel, komischerweise nicht speichern konnte. Daher haben wir uns nur Notizen gemacht, um diese später zu übertragen. 
 </details>
 
-## 21.01.2019  <a name="sechs"></a> 
+### 21.01.2019  <a name="sechs"></a> 
 
 *   GitHub nicht funktionsfähig
 *   GF: Weltskalierung, Steuerung etc.
@@ -124,7 +124,7 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 </details>
 
 
-## 22.01.2019  <a name="sieben"></a> 
+### 22.01.2019  <a name="sieben"></a> 
 
 * Strukturierung der häuslichen Arbeit
 * Ideensammlung für weiteren Spielverlauf
@@ -133,7 +133,7 @@ Unsere neue Idee ist nun das Erstellen eines Jump and Run-Spiels. Gewisse Elemen
 Aufbauend auf der häuslichen Arbeit und kurzem Abgleich der getätigten Veränderungen, ging es nun um weitere Konzeptideen. Also wie das Spiel ablaufen soll, bzw. worin die Herausforderungen des Protagonisten bestehen. Außerdem haben wir ein Beispielbild für den Protagonisten des Spiels herausgesucht, dieses ist jedoch aktuell noch viel zu groß im Vergleich zur Welt und das Bewegen der Figur sieht recht unrealistisch aus, wollen dies in der nächsten Stunde lösen.
 </details> 
 
-## 29.01.2019 <a name="acht"></a> 
+### 29.01.2019 <a name="acht"></a> 
 
 *  GF: Bildskalierung angepasst
 *  Syntaxprobleme
@@ -147,7 +147,7 @@ Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu
     
 </details> 
 
-## 04.02.2019  <a name="neun"></a> 
+### 04.02.2019  <a name="neun"></a> 
 
 * GF: Blocks hinzugefügt
 * Welt strukturiert
@@ -157,7 +157,7 @@ Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu
 Da unser Protagonist nun korrekt skaliert ist und sich in alle Richtungen bewegen kann, haben wir der Welt Blocks hinzugefügt, welche nach kurzer bildtechnischer Bearbeitung um weiße Ränder zu entfernen, den Boden der Welt definieren und die Grundlage für jegliche Gestaltung der Umwelt sind. Über addObject, sind nun an den bestimmten Koordinaten, die Blocks bereits zu Spielbeginn vorhanden und müssen demnach nicht mehr einzeln eingefügt werden. Außerdem habe ich an der Transparenz einzelner Blöcke gearbeitet, bin jedoch noch nicht sicher, ob diese später zum Einsatz kommen.
 </details> 
 
-## 12.02.2019  <a name="zehn"></a> 
+### 12.02.2019  <a name="zehn"></a> 
 
 *  GF: Interaktion: Objekt und Spielfigur
   * Gravitation erstellt
@@ -172,7 +172,7 @@ In der nun, zumindest grundlegend vorhandenen Umgebung, geht es um die Interakti
 variablen sind oben im Code definiert
 </details> 
 
-## 19.02.2019  <a name="elf"></a> 
+### 19.02.2019  <a name="elf"></a> 
 
 *  GF: Strukturierung der Anfangsblöcke
 
@@ -181,7 +181,7 @@ variablen sind oben im Code definiert
 Nach häuslicher Beendigung des Steuerungskonzeptes und der Gravitation, haben wir eine neuen Weltabschnitt erstellt und diesen vorstrukturiert. Außerdem haben wir die Steuerungsgeschwindigkeiten, wie auch die Sprung höhe neu angepasst und besser auf die gesamte Umwelt abgestimmt. Im Verlauf der nächsten Tagen war die Zielsetzung die Interaktion zwischen Block und Spielfigur zu schaffen. Also das bspw. das Landen des Protagonisten auf einem Block zu ermöglichen, dies stellt sich jedoch als überraschend kompliziert heraus. 
 </details> 
 
-## 25.02.2019  <a name="zwölf"></a> 
+### 25.02.2019  <a name="zwölf"></a> 
 
 *  GF: Standoption auf Block
 * Überarbeitung der Codezeilen
@@ -192,7 +192,7 @@ Nach häuslicher Beendigung des Steuerungskonzeptes und der Gravitation, haben w
 Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuhause- sind wir zu keinem weiteren Ergebnis gekommen. Nach mehreren Versuchen in dieser Stunde hat jetzt jedoch endlich ein Teil davon funktioniert. Jedoch sind aktuell, neben dem Grundgedanken viele noch falsche Codezeilen zu bearbeiten. So sind manche Fehler, wie der fehlenden Definition eines Bezugsobjekts, ein gewisser Zeitfaktor. In der morgigen Doppelstunde, wollen wir jedoch mit dieser Problematik anschließen und hätten damit einen recht großen/komplitzierten Teil endlich geschafft.
 </details> 
 
-## 26.02.2019 <a name="dreizehn"></a> 
+### 26.02.2019 <a name="dreizehn"></a> 
 
 *  GF: Fehlerbearbeitung
   * Autolayout
@@ -207,7 +207,7 @@ Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komische
 </details> 
 
 
-## 04.03.2019<a name="vierzehn"></a> 
+### 04.03.2019<a name="vierzehn"></a> 
 
 *   Überarbeitung der GitHub-Seite
   * Verknüpfungen
@@ -217,7 +217,7 @@ Haben kurze Pause von GF eingelegt, und die GitHub-Seite etwas aufgefrischt, das
  </details>
 
 
-## 05.03.2019  <a name="fünfzehn"></a>
+### 05.03.2019  <a name="fünfzehn"></a>
 
 * GF: Sprunganzahl in Luft begrenzen
 *   neue Welt definiert, Menü etc.
@@ -228,7 +228,7 @@ Das mehrfache Springen in der Luft ist aktuell zu ändern, da man sonst "fliegen
 </details> 
 
 
-## 18.03.2019  <a name="sechzehn"></a> 
+### 18.03.2019  <a name="sechzehn"></a> 
 
 * GF: Gleichzeitiges Bewegen aller Objekte,
 * Github-Seite aktualisiert 
@@ -238,7 +238,7 @@ Um eine größere bzw. längere Welt zu erreichen, sollen sich nun alle Objekte 
 
  </details> 
 
-## 25.03.2019  <a name="siebzehn"></a> 
+### 25.03.2019  <a name="siebzehn"></a> 
 
 * Github: Stundenblog für Abgabe beendet
 * GF: Sprungproblematik 
@@ -248,7 +248,7 @@ Da morgen die Abgabe des Stundenblogs ist, wurde dieser nun abgabefertig bearbei
 
  </details> 
  
-## 26.03.2019  <a name="achtzehn"></a> 
+### 26.03.2019  <a name="achtzehn"></a> 
 
 * GF: neue Ideensammlung
 * Github-Seite aktualisiert 
