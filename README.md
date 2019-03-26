@@ -202,6 +202,8 @@ Weiterhin geht es um das Landen auf einem Block, in der letzten Woche -auch zuha
 Nach häuslicher Arbeit ist der Block nun fast beendet, Vorteil einiger komischer Probleme war die Bekanntschaft mit dem Debugmodus und der Autolayout funktion, welche in manchen Fällen das benötigte Wundermittel war. Außerdem habe ich heute von der "showtext"-Funktion herfahren. Diese hat geholfen und aufgezeigt, dass es eine "nullpointexception" gibt. Daher haben wir den Fehler erkannt, welcher letztendlich war, dass die Figur bereits zu früh entfernt wurde, und ich ein gravitation() zu viel im Code hatte. Bei Stundenende kann die Figur nun, -voraussichtlich- ohne weitere Fehler auf der Plattform stehen. 
 </details> 
 
+![Bild3](https://user-images.githubusercontent.com/42579272/55009803-7031e780-4fe3-11e9-96d3-1d3f299fef43.PNG)
+
 ## 04.03.2019<a name="vierzehn"></a> 
 
 *   Überarbeitung der GitHub-Seite
