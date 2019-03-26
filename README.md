@@ -245,6 +245,6 @@ Da morgen die Abgabe des Stundenblogs ist, wurde diese nun abgabefertig bearbeit
 * Github-Seite aktualisiert 
 <details>
   <summary>Genauer</summary>
-Heute habe ich viele neue Ideen gesammelt, um das Spiel interessanter zu gestalten. Inwiefern diese umzusetzten sind, ist jedoch noch unklar. (als Notiz: Entscheidungspunkt, Herausforderungen bspw. schieben eines objektes um auf ein anderes zu kommen, 
+Heute habe ich viele neue Ideen gesammelt, um das Spiel interessanter/ansprechender zu gestalten. Inwiefern diese umzusetzten sind, ist jedoch noch unklar. (als Notiz: Entscheidungspunkt durch Welt_a oder b, Herausforderungen bspw. schieben eines objektes um auf ein anderes zu kommen, bewegter Hintergrund, Laufanimation_ja/nein?, 
 
  </details>  
