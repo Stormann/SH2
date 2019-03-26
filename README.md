@@ -142,6 +142,8 @@ Aufbauend auf der häuslichen Arbeit und kurzem Abgleich der getätigten Veränd
 <details>
   <summary>Genauer</summary>
 Nun ging es darum die Figur beim Bewegen (durch Tastendruck), gleichzeitig so zu spiegeln, dass sie in die passende Richtung schaut. Nach einigem Herrumprobieren, war die Lösung durch "setimage" ein neues, vorher bereits als gespiegelte Variante verändert, einzusetzen. Da dies gelöst war musste das Bild nur noch gespiegelt werden, hier jedoch fiel erst später auf, dass der Code an der falschen Stelle eingesetzt war, daher war die Person je nach Bewegungsrichtung skaliert oder nicht. Nach einigem "unnötigen" Aufwand wurde der Fehler jedoch gefunden. Neben solchen kleinen Dingen, hat uns jedoch anfangs vorallem die Syntax etwas Zeit gekostet, da man schnell z.B. ein Semikolon vergisst, jedoch ist der Hinweis von Greenfoot auf einen fehlerhaften Code sehr hilfreich um solche Kleinigkeiten aufzudecken.
+   
+![Bild1](https://user-images.githubusercontent.com/42579272/55008868-f77e5b80-4fe1-11e9-92bd-a4d2618a5073.PNG)
     
 </details> 
 
