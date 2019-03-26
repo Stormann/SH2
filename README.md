@@ -167,6 +167,8 @@ Da unser Protagonist nun korrekt skaliert ist und sich alle Richtungen bewegen k
   <summary>Genauer</summary>
 In der nun, zumindest grundlegend vorhandenen Umgebung, geht es um die Interaktion zwischen der Spielfigur und bspw. den Plattformen/Blocks. Um dies zu erstellen fehlte jedoch noch die Gravitation. In diesem Zuge haben wir außerdem unser Steuerungskonzept überarbeitet, statt bisherigem move(x), bewegt sich der Protagonist nun durch einen in unserer Geschwindigkeitsvariabel definierten Wert. Die Erstellung mehrerer Variabeln ermöglicht es uns später die Geschwindigkeiten einfach an zupassen, und ist außerdem code-technisch übersichtlicher/ besser nachzuvollziehen. Mit der Umsetzung dieser Idee sind wir jedoch nicht vollständig in der Stunde fertig geworden, daher wollten wir dies später zuhause beenden. 
 
+![Bild2](https://user-images.githubusercontent.com/42579272/55009667-3e208580-4fe3-11e9-92e9-f73da733697b.PNG)
+variablen sind oben im Code definiert
 </details> 
 
 ## 19.02.2019  <a name="elf"></a> 
