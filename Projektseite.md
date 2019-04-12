@@ -34,7 +34,7 @@
 
 Im folgenden findet sich eine konkrete Dokumentation zum Code des Projekts. Dieser Text zielt darauf die Umsetzung bzw. Gestaltung der Projektidee zu vermitteln.Das Verfahren wird, je nach Komplexität des Codes, in der Detailtreue variiert.
 
-Anzumerken ist, dass das Programm sich noch in der Weiterentwicklung befindet. Daher folgt eine teils "unschöne" Form, bspw. durch zwei Schrägstriche (//) deaktivierter Code. Dies wird im nötigen Fall kommentiert, generell sind meine Notizen im Code einfach zu überlesen.
+Anzumerken ist, dass das Programm sich noch in der Weiterentwicklung befindet. Daher folgt eine teils "unschöne" Form, bspw. durch zwei Schrägstriche `//` deaktivierter Code. Dies wird im nötigen Fall kommentiert, generell sind meine Notizen im Code einfach zu überlesen.
 #### Codeumgebung
 Greenfoot ist eine java-basierte, für Studienzwecke möglichst interaktiv gestaltete, Entwicklungsplattform. Durch die vordefinierten Klassen wie bspw. World oder Actor ist die spätere Einbindung von Objekten in die graphische Oberfläche um einiges erleichtert.
 #### Projektidee
@@ -73,4 +73,6 @@ Dieses Objekt, in Form eines Fasses, dient der Verbindung zwischen den einzelnen
 #### Designobjekt
 Das Designobjekt steht für die vielen einzelnen Actors als Unterklassen vom Actor Hintergrund. Um die 2dimensionale Welt etwas interessanter zu gestalten, wird die Spielfigur von manchen Dingen überdeckt. Dies funktioniert, indem ich vom jeweiligen Bildhintergrund die vorderen Pflanzen ausgeschnitten und das gesamte Bild so gespeichert habe, dass nur diese übrig sind. Nun ist das bearbeitete Bild an der gleichen Stelle wie sein Original einzufügen. Mit der Funktion setPaintOrder (umso weiter links desto weiter oben) ließ sich nun genau einstellen welche Bilder im Vor- oder Hintergrund sein sollen. Beim Scrollen einer Welt ist natürlich an diese Ausschnitte mitzudenken, außerdem müssen alle Objekt in der PaintOrder erwähnt werden, sonst sind diese nicht sichtbar. Falls man eine unsichtbare Plattform erzeugen möchte ist dies vllt. eine unkonventionelle/einfachere Möglichkeit.
 ### 2.2.2 Protagonist
-
+Der Programmiercode für diesen `Actor` war insgesamt wesentlich komplizierter im Vergleich zu den vorherigen. Oft war die Lösung bei der Fehlersuche jedoch auch ein kleiner unnötiger Fehler. 
+### Bewegungsprinzip
+Zu Beginn der Klasse sind alle Variabeln definiert, darunter z.B. die für eine Bewegung in x-Richtung, ebenso die ´boolean´
