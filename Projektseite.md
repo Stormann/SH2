@@ -75,4 +75,5 @@ Das Designobjekt steht für die vielen einzelnen Actors als Unterklassen vom Act
 ### 2.2.2 Protagonist
 Der Programmiercode für diesen `Actor` war insgesamt wesentlich komplizierter im Vergleich zu den vorherigen. Oft war die Lösung bei der Fehlersuche jedoch auch ein kleiner unnötiger Fehler. 
 ### Bewegungsprinzip
-Zu Beginn der Klasse sind alle Variabeln definiert, darunter z.B. die für eine Bewegung in x-Richtung, ebenso die `boolean`-Funktion um zu testen ob etwas Bestimmtes `true`oder `false`ist.
+Zu Beginn der Klasse sind alle Variabeln definiert, darunter z.B. die für eine Bewegung in x-Richtung, ebenso die `boolean`-Funktion um zu testen ob etwas Bestimmtes `true`oder `false` ist. Über die ```checkKeys()```-Method wird erkannt, ob die für die Bewegung (bei der `if-Schleife`festgelegte Taste) gedrückt ist.
+
