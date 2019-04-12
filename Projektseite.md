@@ -75,5 +75,11 @@ Das Designobjekt steht für die vielen einzelnen Actors als Unterklassen vom Act
 ### 2.2.2 Protagonist
 Der Programmiercode für diesen `Actor` war insgesamt wesentlich komplizierter im Vergleich zu den vorherigen. Oft war die Lösung bei der Fehlersuche jedoch auch ein kleiner unnötiger Fehler. 
 ### Bewegungsprinzip
-Zu Beginn der Klasse sind alle Variabeln definiert, darunter z.B. die für eine Bewegung in x-Richtung, ebenso die `boolean`-Funktion um zu testen ob etwas Bestimmtes `true`oder `false` ist. Über die ```checkKeys()```-Method wird erkannt, ob die für die Bewegung (bei der `if-Schleife`festgelegte Taste) gedrückt ist.
+Zu Beginn der Klasse sind alle Variabeln definiert, darunter z.B. die für eine Bewegung in x-Richtung, ebenso die `boolean`-Funktion um zu testen ob etwas Bestimmtes `true`oder `false` ist. Dies ist sehr nützlich um spätere Änderungen vorzunehmen. 
+Über die `checkKeys() Method` wird erkannt, ob die für die Bewegung (bei der `if-Schleife`festgelegte Taste) gedrückt ist. Falls ja, wird die Spielfigur mit Hilfe von `setLocation` um die gewünschte `Geschwindigkeit` bewegt. Außerdem wird `jump()`ausgeführt, falls `"space"`gedrückt wird. Wenn sich die Spielfigur in der Luftbefindet, also `jump=true`gilt, wird `fall()`ausgeführt.
+
+### Interaktion
+Das Springen soll nur vom Boden aus funktionieren, daher wird nur bei`if(gtotal()`ist ungleich 0 die `Geschwindigkeit_v` angewandt. Dies basiert darauf, dass in `List<Block>` `g=...` mit der jeweiligen Klasse und der Methode `getObjectsAt()`durch Kontakt mit dem Objekt ein Wert größer als Null entsteht.
+Außerdem wird `jump=true`gestellt.
+
 
