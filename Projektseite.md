@@ -57,7 +57,7 @@ Der Endscreen, sowie der Gameover-Screen hat, wie alle Welten, min. ein richtig 
 #### 2.1.3 Scrolling
 Nun genauer zu der Scrollingfunktion. Diese funkioniert so, dass zuerst ein Bild in der Mitte der Welt, sowie eines am rechten Rand eingefügt wird. Über die untenstehende Funktion, wird der Ort des Bildes definiert und das passende Bild angesteuert. Dieses wird dann über die vorher definierte Funktion "scroll()" bewegt. Anfänglich war die Idee, dass bei seitlicher Bewegung der Figur auch der Hintergrund mitbewegt wird. Leider sah dies nicht so gut wie erwartet aus, daher habe ich den Bewegungswert in x-Richtung auf 0 gesetzt. Das Scrolling ist in beide Richtungen programmiert, ich habe jedoch eine Variabel für den Bewegungswert in x und y-Richtung erstellt, diese lässt sich schnell (falls doch benötigt) ändern. Aktuell soll eine scrollender Hintergrund bei Level 3 in das noch nicht programmierte Zusatzlevel führen. 
 
-### Actor
+### 2.2 Actor
 Als Actor sind nicht nur stationäre Objekte definiert, sondern auch die Hauptspielfigur, sowie die Hintergrundbilder -dies war für die Scrollfunktion nötig.
 #### 2.2.1 Objekte
 Zuerst werden alle Objekte beschrieben.
@@ -71,4 +71,6 @@ Da das Spiel noch nicht fertig ist, sind noch weitere Gegner und Interaktionen g
 #### Übergangsobjekt
 Dieses Objekt, in Form eines Fasses, dient der Verbindung zwischen den einzelnen Welten. Wenn die Spielfigur das Fass berührt wird eine neue Welt erstellt. In dieser bestehen dann die vorher definierten Objekte. Funktionen wie "iftouching" waren sehr leicht zu finden und umzusetzen, da man mit strg+Leertaste ein Fenster öffnen kann um sich "completions" anzeigen zu lassen (diese sind außerdem erklärt). 
 #### Designobjekt
-Das Designobjekt steht für die vielen einzelnen Actors als Unterklassen vom Actor Hintergrund. Um die 2dimensionale Welt etwas interessanter zu gestalten, wird die Spielfigur von manchen Dingen überdeckt. Dies funktioniert, indem ich vom jeweiligen Bildhintergrund die vorderen Pflanzen ausgeschnitten und das gesamte Bild so gespeichert habe, dass nur diese übrig sind. Nun ist das bearbeitete Bild an der gleichen Stelle wie sein Original einzufügen. Mit der Funktion setPaintOrder (umso weiter links desto weiter oben) ließ sich nun genau einstellen welche Bilder im Vor- oder Hintergrund sein sollen.
+Das Designobjekt steht für die vielen einzelnen Actors als Unterklassen vom Actor Hintergrund. Um die 2dimensionale Welt etwas interessanter zu gestalten, wird die Spielfigur von manchen Dingen überdeckt. Dies funktioniert, indem ich vom jeweiligen Bildhintergrund die vorderen Pflanzen ausgeschnitten und das gesamte Bild so gespeichert habe, dass nur diese übrig sind. Nun ist das bearbeitete Bild an der gleichen Stelle wie sein Original einzufügen. Mit der Funktion setPaintOrder (umso weiter links desto weiter oben) ließ sich nun genau einstellen welche Bilder im Vor- oder Hintergrund sein sollen. Beim Scrollen einer Welt ist natürlich an diese Ausschnitte mitzudenken, außerdem müssen alle Objekt in der PaintOrder erwähnt werden, sonst sind diese nicht sichtbar. Falls man eine unsichtbare Plattform erzeugen möchte ist dies vllt. eine unkonventionelle/einfachere Möglichkeit.
+### 2.2.2 Protagonist
+
