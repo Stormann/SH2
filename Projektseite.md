@@ -77,11 +77,13 @@ Der Programmiercode für diesen `Actor` war insgesamt wesentlich komplizierter i
 ### Bewegungsprinzip
 Zu Beginn der Klasse sind alle Variabeln definiert, darunter z.B. die für eine Bewegung in x-Richtung, ebenso die `boolean`-Funktion um zu testen ob etwas Bestimmtes `true`oder `false` ist. Dies ist sehr nützlich um spätere Änderungen vorzunehmen. 
 Über die `checkKeys() Method` wird erkannt, ob die für die Bewegung (bei der `if-Schleife`festgelegte Taste) gedrückt ist. Falls ja, wird die Spielfigur mit Hilfe von `setLocation` um die gewünschte `Geschwindigkeit` bewegt. Außerdem wird `jump()`ausgeführt, falls `"space"`gedrückt wird. Wenn sich die Spielfigur in der Luftbefindet, also `jump=true`gilt, wird `fall()`ausgeführt.
-
 ### Interaktionen
 Das Springen soll nur vom Boden aus funktionieren, daher wird nur bei`if(gtotal()`ist ungleich 0 die `Geschwindigkeit_v` angewandt. Dies basiert darauf, dass in `List<Block>` `g=...` mit der jeweiligen Klasse und der Methode `getObjectsAt()`durch Kontakt mit dem Objekt ein Wert größer als Null entsteht.
 Außerdem wird `jump=true`gestellt.
 Damit sich der Protagonist über einem Objekt befinden kann, ohne weiter zu fallen, wird `groundlist`verwendet. Die einzelnen Objekte, die als Untergrund dienen sollen müssen daher in `List<Objekt> etc.`definiert werden.
 Falls die Spielfigur in eine "Abgrund" -also aus der Welt hinaus fällt- soll der GameOver-Screen erscheinen, daher `if()` und `setWorld`. 
-
+### Kostüm
+Als Skin für die Spielfigur verwende ich eine Gif-Datei, wenn die Figur nicht läuft wird nur ein Screenshot aus der Animation verwendet.
+### Animation
+Der Code für die Gif-Funktion geht aktuell nicht und ich konnte den Fehler nicht finden. Mit der folgenden Codeidee hat die Animation bereits funktioniert, daher sollte der theoretische Gedanke richtig sein. Das `GifImage`wird zu Beginn (direkt unter den Variabeln) definiert. Danach wird das Bild in `public Protagonist()`skaliert und ein `new GifImage` durch Kombination mit der gerade genannten Definition erstellt (auch gespiegelt). Dennoch ist das `gif`pausiert, schließlich soll die Animation im Stand nicht laufen. In der `act()`ist zu Beginn `mirror=false`und `moving=false`. Die folgende If-Schleife unterscheidt und fügt später die richtig gespiegelte Version als Bild ein. Wenn z.B. "a" gedrückt wird bewegt sich die Spielfigur nach links, daher ist `moving`=true und `mirror` nun ebenfalls. Wenn das gif nicht läuft und "a" gedrückt wird, soll es starten(`gif.resume`).Ein Ausrufezeichen vor dem Gleichzeichen macht dies zu einem Ungleich. Während des Springens soll die `Gif-Datei` natürlich pausieren. 
 
