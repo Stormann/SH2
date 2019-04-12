@@ -42,7 +42,7 @@ Meine Projektidee ist ein klassisches "Jump and Run"-Spiel. Die Thematik hat sic
 <hr>
 
 ### 2.Code
-Der Code wird (grob formuliert) von außen nach innen betrachtet, bei späterer Betrachtung des `Protagonisten` sei dessen Umgebung bereits erklärt.
+Der Code wird (grob formuliert) von außen nach innen beschrieben, bei späterer Betrachtung des `Protagonisten` sei dessen Umgebung bereits erklärt.
 ### 2.1 World
 Ähnlichkeiten der einzelnen Welten sind: Alle vorkommenden Objekte werden vorher, durch Angabe der Koordinaten einzeln definiert. 
 #### 2.1.1 Startscreen
