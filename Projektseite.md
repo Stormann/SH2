@@ -28,4 +28,14 @@
       
   ### 3. Fazit
 <hr>
-## 1.Einführung
+
+### 1.Einführung
+#### Vorwort
+
+Im folgenden findet sich eine konkrete Dokumentation zum Code des Projekts. Dieser Text zielt darauf die Umsetzung bzw. Gestaltung der Projektidee zu vermitteln, so wird das Verfahren, je nach Komplexität des Codes, in der Detailtreue variiert.
+
+Anzumerken ist, dass das Programm sich noch in der Weiterentwicklung befindet. Daher folgt eine teils "unschöne" Form, bspw. durch zwei Schrägstriche (//) deaktivierter Code, dieses wird im nötigen Fall kommentiert.
+
+#### Codeumgebung
+
+#### Projektidee
