@@ -3,6 +3,9 @@
 ## Inhaltsverzeichnis
 ### 1. Einführung
 ### 2. Code
+<details>
+<summary>Genauer</summary>
+   
 ####  2.1 World
 * 2.1.1 Startscreen
     * 2.1.2 Level
@@ -26,6 +29,7 @@
         * Interaktionen
       * Kostüm
         * Animation
+</details>
       
   ### 3. Fazit
 <hr>
@@ -54,7 +58,8 @@ Diese Welt ist selbst nicht begehbar, stellt jedoch die höhere Klasse für alle
 
 <details> 
 <summary>Level2,3</summary>
- ![Lvl2](https://user-images.githubusercontent.com/42579272/56071854-8258a780-5d91-11e9-85c1-2e206b5d4d5c.JPG)
+   
+![Lvl2](https://user-images.githubusercontent.com/42579272/56071854-8258a780-5d91-11e9-85c1-2e206b5d4d5c.JPG)
 ![Lvl3](https://user-images.githubusercontent.com/42579272/56071857-87b5f200-5d91-11e9-919c-7243191c5f33.JPG)
 </details>
 
