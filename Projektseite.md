@@ -102,6 +102,7 @@ Der Programmiercode für diesen `Actor` war insgesamt wesentlich komplizierter i
 
 <details>
 <summary>Gesamter Code der Klasse</summary>
+   
 ![Protagonist1](https://user-images.githubusercontent.com/42579272/56071844-6b19ba00-5d91-11e9-801a-bf3d3b02c926.JPG)
 ![Protagonist2](https://user-images.githubusercontent.com/42579272/56071845-6f45d780-5d91-11e9-8a15-503437545426.JPG)
 ![Protagonist3](https://user-images.githubusercontent.com/42579272/56071847-740a8b80-5d91-11e9-89aa-5e91fcfe041b.JPG)
@@ -124,6 +125,7 @@ Das `GifImage` wird zu Beginn (direkt unter den Variabeln) definiert. Danach wir
 
 <details>
 <summary>Gesamter Code der Klasse</summary>
+   
 ![Protagonist1](https://user-images.githubusercontent.com/42579272/56071844-6b19ba00-5d91-11e9-801a-bf3d3b02c926.JPG)
 ![Protagonist2](https://user-images.githubusercontent.com/42579272/56071845-6f45d780-5d91-11e9-8a15-503437545426.JPG)
 ![Protagonist3](https://user-images.githubusercontent.com/42579272/56071847-740a8b80-5d91-11e9-89aa-5e91fcfe041b.JPG)
